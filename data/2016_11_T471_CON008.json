@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T471",
+    "item_code": "CON008",
+    "scraped_at": "2025-02-08T19:07:26.748457"
+  },
+  "data": [
+    {
+      "facility": "1/ Ka, Roushonara Begum, FWA, Ashugonj",
+      "opening_balance": 680.0,
+      "received": 450.0,
+      "total": 1130.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1130.0,
+      "distribution": 377.0,
+      "closing_balance": 753.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2, DILARA BEGUM, FWA, 01. Ashugonj Sadar",
+      "opening_balance": 574.0,
+      "received": 300.0,
+      "total": 874.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 874.0,
+      "distribution": 257.0,
+      "closing_balance": 617.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/ kha, Roushonara Begum, FWA(Incharge), Ashugonj Sadar",
+      "opening_balance": 678.0,
+      "received": 450.0,
+      "total": 1128.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1128.0,
+      "distribution": 342.0,
+      "closing_balance": 786.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3, DILSHAD ISLAM, FWA, 01. Ashugonj Sadar",
+      "opening_balance": 414.0,
+      "received": 300.0,
+      "total": 714.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 714.0,
+      "distribution": 236.0,
+      "closing_balance": 478.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/Ga, UMME KULSUM, FWA, 01. Ashugonj Sadar",
+      "opening_balance": 617.0,
+      "received": 0.0,
+      "total": 617.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 617.0,
+      "distribution": 267.0,
+      "closing_balance": 350.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T279",
+    "item_code": "CON002",
+    "scraped_at": "2025-02-08T19:07:10.057756"
+  },
+  "data": [
+    {
+      "facility": "1/Kha, SHARMIN AKTHER, FWA, 01. Bairag",
+      "opening_balance": 1273.0,
+      "received": 100.0,
+      "total": 1373.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1373.0,
+      "distribution": 600.0,
+      "closing_balance": 773.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Ka, SHARMIN AKTHER, FWA, 01. Bairag (In-Charge)",
+      "opening_balance": 815.0,
+      "received": 400.0,
+      "total": 1215.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1215.0,
+      "distribution": 348.0,
+      "closing_balance": 867.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Ka, SHAHRIMA ISHRAT, FWA, 01. Bairag",
+      "opening_balance": 454.0,
+      "received": 200.0,
+      "total": 654.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 654.0,
+      "distribution": 234.0,
+      "closing_balance": 420.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

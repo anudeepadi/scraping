@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T413",
+    "item_code": "CON006",
+    "scraped_at": "2025-02-08T19:09:21.986483"
+  },
+  "data": [
+    {
+      "facility": "1/Ka, RINA KHATUN, FWA, 01. Karapara",
+      "opening_balance": 29.0,
+      "received": 25.0,
+      "total": 54.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 54.0,
+      "distribution": 15.0,
+      "closing_balance": 39.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/Kha, KOHINUR KHATUN, FWA, 01. Karapara",
+      "opening_balance": 30.0,
+      "received": 27.0,
+      "total": 57.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 57.0,
+      "distribution": 15.0,
+      "closing_balance": 42.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Ka, LILA MONDOL, FWA, 01. Karapara",
+      "opening_balance": 19.0,
+      "received": 23.0,
+      "total": 42.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 42.0,
+      "distribution": 19.0,
+      "closing_balance": 23.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/Ga, Sabina Parvin, FWA, Karapara",
+      "opening_balance": 60.0,
+      "received": 3.0,
+      "total": 63.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 63.0,
+      "distribution": 0.0,
+      "closing_balance": 63.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Kha, LILA MONDOL, FWA, 01. Karapara (In-Charge)",
+      "opening_balance": 60.0,
+      "received": 0.0,
+      "total": 60.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 60.0,
+      "distribution": 0.0,
+      "closing_balance": 60.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Kha, SAROMA PAUL, FWA, 01. Karapara",
+      "opening_balance": 23.0,
+      "received": 16.0,
+      "total": 39.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 39.0,
+      "distribution": 12.0,
+      "closing_balance": 27.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/ Ka, Aroti Debnath, FWA, Karapara",
+      "opening_balance": 39.0,
+      "received": 36.0,
+      "total": 75.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 75.0,
+      "distribution": 22.0,
+      "closing_balance": 53.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

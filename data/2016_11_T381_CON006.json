@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T381",
+    "item_code": "CON006",
+    "scraped_at": "2025-02-08T19:12:10.366324"
+  },
+  "data": [
+    {
+      "facility": "1/Ka, MUNSI AJUFA BEGUM, FWA, 01. Uttar Purba Baniachang (In-Charge)",
+      "opening_balance": 2.0,
+      "received": 0.0,
+      "total": 2.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 2.0,
+      "distribution": 2.0,
+      "closing_balance": 0.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/Kha, MUNSI OJUFA BEGUM, FWA, 01. Uttar Purba Baniachang (In-Charge)",
+      "opening_balance": 0.0,
+      "received": 0.0,
+      "total": 0.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 0.0,
+      "distribution": 0.0,
+      "closing_balance": 0.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Ka, UMME MAHELA, FWA, 01. Uttar Purba Baniachang",
+      "opening_balance": 0.0,
+      "received": 0.0,
+      "total": 0.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 0.0,
+      "distribution": 0.0,
+      "closing_balance": 0.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Kha, MUNSI AJUFA BEGUM, FWA, 01. Uttar Purba Baniachang (In-Charge)",
+      "opening_balance": 25.0,
+      "received": 5.0,
+      "total": 30.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 30.0,
+      "distribution": 5.0,
+      "closing_balance": 25.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Ka, 3/ Ka, Munsi Ojufa Begum, FWA, Uttar Purba Baniachong, FWA, 01. Uttar Purba Baniachang",
+      "opening_balance": 6.0,
+      "received": 3.0,
+      "total": 9.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 9.0,
+      "distribution": 4.0,
+      "closing_balance": 5.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Kha, MUNSI AJUFA BEGUM, FWA, 01. Uttar Purba Baniachang (In-Charge)",
+      "opening_balance": 17.0,
+      "received": 10.0,
+      "total": 27.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 27.0,
+      "distribution": 10.0,
+      "closing_balance": 17.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

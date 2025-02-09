@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T379",
+    "item_code": "CON006",
+    "scraped_at": "2025-02-08T19:05:59.016447"
+  },
+  "data": [
+    {
+      "facility": "1/Ka, SHAFALI AKTER., FWA, 01. Azmiriganj",
+      "opening_balance": 15.0,
+      "received": 15.0,
+      "total": 30.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 30.0,
+      "distribution": 14.0,
+      "closing_balance": 16.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/Kha, MRS. RUBINA AKTHER, , FWA, 01. Azmiriganj",
+      "opening_balance": 8.0,
+      "received": 10.0,
+      "total": 18.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 18.0,
+      "distribution": 8.0,
+      "closing_balance": 10.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/ KA, Neharu Bala Roy (In-Charge), FWA, Azmiriganj",
+      "opening_balance": 17.0,
+      "received": 0.0,
+      "total": 17.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 17.0,
+      "distribution": 4.0,
+      "closing_balance": 13.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/ Kha, Neharu Bala Roy, FWA, Azmiriganj",
+      "opening_balance": 23.0,
+      "received": 7.0,
+      "total": 30.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 30.0,
+      "distribution": 19.0,
+      "closing_balance": 11.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3. Sufia Begum, FWA, Azmiriganj",
+      "opening_balance": 6.0,
+      "received": 9.0,
+      "total": 15.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 15.0,
+      "distribution": 6.0,
+      "closing_balance": 9.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

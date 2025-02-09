@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T335",
+    "item_code": "CON008",
+    "scraped_at": "2025-02-08T19:14:14.753821"
+  },
+  "data": [
+    {
+      "facility": "1 No Ward, SHAHNAZ BEGUM, FWA, 01. Amanullapur",
+      "opening_balance": 909.0,
+      "received": 405.0,
+      "total": 1314.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1314.0,
+      "distribution": 420.0,
+      "closing_balance": 894.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Ka, NASRIN AKHTER,, FWA, 01. Amanullapur",
+      "opening_balance": 469.0,
+      "received": 150.0,
+      "total": 619.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 619.0,
+      "distribution": 263.0,
+      "closing_balance": 356.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Kha, SHIRIN AKHTER, FWA, 01. Amanullapur",
+      "opening_balance": 428.0,
+      "received": 195.0,
+      "total": 623.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 623.0,
+      "distribution": 196.0,
+      "closing_balance": 427.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Ka, SHAHIDA AKHTER, FWA, 01. Amanullapur",
+      "opening_balance": 327.0,
+      "received": 180.0,
+      "total": 507.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 507.0,
+      "distribution": 158.0,
+      "closing_balance": 349.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Kha, RUMANA FERDOWS, FWA, 01. Amanullapur",
+      "opening_balance": 372.0,
+      "received": 0.0,
+      "total": 372.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 372.0,
+      "distribution": 152.0,
+      "closing_balance": 220.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

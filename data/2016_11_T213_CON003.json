@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T213",
+    "item_code": "CON003",
+    "scraped_at": "2025-02-08T19:09:34.723502"
+  },
+  "data": [
+    {
+      "facility": "1/Ka, AKTARA KHANOM, FWA, 01. Bajubagha",
+      "opening_balance": 0.0,
+      "received": 0.0,
+      "total": 0.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 0.0,
+      "distribution": 0.0,
+      "closing_balance": 0.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/Kha, AKTARA KHANUM, FWA, 01. Bajubagha",
+      "opening_balance": 0.0,
+      "received": 0.0,
+      "total": 0.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 0.0,
+      "distribution": 0.0,
+      "closing_balance": 0.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Kha, PADINI RANI, FWA, 01. Bajubagha (In-Charge)",
+      "opening_balance": 0.0,
+      "received": 0.0,
+      "total": 0.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 0.0,
+      "distribution": 0.0,
+      "closing_balance": 0.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/ kha, Lailatur Rahati, FWA, Baju Bagha",
+      "opening_balance": 0.0,
+      "received": 0.0,
+      "total": 0.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 0.0,
+      "distribution": 0.0,
+      "closing_balance": 0.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Ga, SHUVRA SARKER, FWA, 01. Bajubagha",
+      "opening_balance": 0.0,
+      "received": 0.0,
+      "total": 0.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 0.0,
+      "distribution": 0.0,
+      "closing_balance": 0.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Ka, ANJUMAN ARA, FWA, 01. Bajubagha",
+      "opening_balance": 0.0,
+      "received": 0.0,
+      "total": 0.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 0.0,
+      "distribution": 0.0,
+      "closing_balance": 0.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Kha, MORJINA BEGUM, FWA, 01. Bajubagha",
+      "opening_balance": 0.0,
+      "received": 0.0,
+      "total": 0.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 0.0,
+      "distribution": 0.0,
+      "closing_balance": 0.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

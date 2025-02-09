@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T351",
+    "item_code": "CON001",
+    "scraped_at": "2025-02-08T19:13:11.087680"
+  },
+  "data": [
+    {
+      "facility": "1 No Ward, CHAMPA RANI CHAKMA, FWA, 01. Subalong",
+      "opening_balance": 50.0,
+      "received": 13.0,
+      "total": 63.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 63.0,
+      "distribution": 21.0,
+      "closing_balance": 42.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2 No Ward, RUPA CHAKMA, FWA, 01. Subalong",
+      "opening_balance": 32.0,
+      "received": 16.0,
+      "total": 48.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 48.0,
+      "distribution": 16.0,
+      "closing_balance": 32.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3 No Ward, RUPA CHAKMA, FWA, 01. Subalong (In-Charge)",
+      "opening_balance": 21.0,
+      "received": 5.0,
+      "total": 26.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 26.0,
+      "distribution": 6.0,
+      "closing_balance": 20.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

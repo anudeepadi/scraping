@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T403",
+    "item_code": "CON002",
+    "scraped_at": "2025-02-08T19:13:49.310165"
+  },
+  "data": [
+    {
+      "facility": "1/Ka, TAHMINA BILKIS, FWA, 01. Jalma",
+      "opening_balance": 845.0,
+      "received": 400.0,
+      "total": 1245.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1245.0,
+      "distribution": 390.0,
+      "closing_balance": 855.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/Kha, MANJU RANI BISWAS, FWA, 01. Jalma",
+      "opening_balance": 680.0,
+      "received": 400.0,
+      "total": 1080.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1080.0,
+      "distribution": 380.0,
+      "closing_balance": 700.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Ka, MINATI HALDAR, FWA, 01. Jalma",
+      "opening_balance": 1200.0,
+      "received": 800.0,
+      "total": 2000.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 2000.0,
+      "distribution": 200.0,
+      "closing_balance": 1800.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Kha, MAMATA DHALI, FWA, 01. Jalma",
+      "opening_balance": 860.0,
+      "received": 300.0,
+      "total": 1160.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1160.0,
+      "distribution": 300.0,
+      "closing_balance": 860.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Ka, LIMA TIKADAR, FWA, 01. Jalma",
+      "opening_balance": 830.0,
+      "received": 300.0,
+      "total": 1130.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1130.0,
+      "distribution": 480.0,
+      "closing_balance": 650.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Kha, MINATI HALDAR, FWA, 01. Jalma",
+      "opening_balance": 600.0,
+      "received": 700.0,
+      "total": 1300.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1300.0,
+      "distribution": 400.0,
+      "closing_balance": 900.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

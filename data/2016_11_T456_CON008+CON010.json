@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T456",
+    "item_code": "CON008+CON010",
+    "scraped_at": "2025-02-08T19:06:26.951305"
+  },
+  "data": [
+    {
+      "facility": "1/Ka, NAZMA KHATUN, FWA, 01. Vangbaria",
+      "opening_balance": 236.0,
+      "received": 480.0,
+      "total": 716.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 716.0,
+      "distribution": 260.0,
+      "closing_balance": 456.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/Kha, JESMINARA, FWA, 01. Vangbaria",
+      "opening_balance": 669.0,
+      "received": 465.0,
+      "total": 1134.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1134.0,
+      "distribution": 420.0,
+      "closing_balance": 714.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Ka, TANIA PARVIN, FWA, 01. Vangbaria (In-Charge)",
+      "opening_balance": 200.0,
+      "received": 0.0,
+      "total": 200.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 200.0,
+      "distribution": 0.0,
+      "closing_balance": 200.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Ka, RASHIDA NAJNIN, FWA, 01. Vangbaria",
+      "opening_balance": 464.0,
+      "received": 315.0,
+      "total": 779.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 779.0,
+      "distribution": 222.0,
+      "closing_balance": 557.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Ka, NONDA RANI, FWA, 01. Vangbaria",
+      "opening_balance": 480.0,
+      "received": 330.0,
+      "total": 810.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 810.0,
+      "distribution": 264.0,
+      "closing_balance": 546.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

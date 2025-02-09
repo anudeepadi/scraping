@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T303",
+    "item_code": "MCH021",
+    "scraped_at": "2025-02-08T19:12:02.809633"
+  },
+  "data": [
+    {
+      "facility": "1/ Ikkhaiprue Chowdhury, FWA, Rajvila",
+      "opening_balance": 0.0,
+      "received": 0.0,
+      "total": 0.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 0.0,
+      "distribution": 0.0,
+      "closing_balance": 0.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": false
+    },
+    {
+      "facility": "1/ Mongsanu Marma, FPI (in charge FWA), Rajvila",
+      "opening_balance": 0.0,
+      "received": 40.0,
+      "total": 40.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 40.0,
+      "distribution": 0.0,
+      "closing_balance": 40.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": false
+    },
+    {
+      "facility": "2 No Ward, NIMRACING MARMA, , FWA, 01. Rajvila",
+      "opening_balance": 20.0,
+      "received": 0.0,
+      "total": 20.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 20.0,
+      "distribution": 0.0,
+      "closing_balance": 20.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

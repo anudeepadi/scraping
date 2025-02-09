@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T422",
+    "item_code": "MCH012",
+    "scraped_at": "2025-02-08T19:07:45.087360"
+  },
+  "data": [
+    {
+      "facility": "1/ Ka, Sunila Swarnakar, FWA, Shouvnali",
+      "opening_balance": 1800.0,
+      "received": 0.0,
+      "total": 1800.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1800.0,
+      "distribution": 630.0,
+      "closing_balance": 1170.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Ka, NARGIS AKTAR, FWA, 01. Shouvnali",
+      "opening_balance": 3540.0,
+      "received": 0.0,
+      "total": 3540.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 3540.0,
+      "distribution": 450.0,
+      "closing_balance": 3090.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/ Kha, Tahamina Aktar, FWA, Shouvnali",
+      "opening_balance": 3870.0,
+      "received": 0.0,
+      "total": 3870.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 3870.0,
+      "distribution": 360.0,
+      "closing_balance": 3510.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Kha, NARGIS AKTAR, FWA, 01. Shouvnali",
+      "opening_balance": 4230.0,
+      "received": 0.0,
+      "total": 4230.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 4230.0,
+      "distribution": 540.0,
+      "closing_balance": 3690.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/ KA, Nasrin Aktar, FWA, Shouvnali",
+      "opening_balance": 8400.0,
+      "received": 0.0,
+      "total": 8400.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 8400.0,
+      "distribution": 990.0,
+      "closing_balance": 7410.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/ Kha, Shefali Aktar, FWA, Shouvnali",
+      "opening_balance": 3330.0,
+      "received": 0.0,
+      "total": 3330.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 3330.0,
+      "distribution": 450.0,
+      "closing_balance": 2880.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

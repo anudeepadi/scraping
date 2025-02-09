@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T227",
+    "item_code": "CON002",
+    "scraped_at": "2025-02-08T19:08:11.270775"
+  },
+  "data": [
+    {
+      "facility": "1/Kha, MOUSUMI BANU, FWA, 01. Shahagola (In-Charge)",
+      "opening_balance": 650.0,
+      "received": 200.0,
+      "total": 850.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 850.0,
+      "distribution": 192.0,
+      "closing_balance": 658.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Ka, SALMA KHATUN, FWA, 01. Shahagola",
+      "opening_balance": 1337.0,
+      "received": 500.0,
+      "total": 1837.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1837.0,
+      "distribution": 675.0,
+      "closing_balance": 1162.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Ka, NAZMA BEGUM, FWA, FWA, 01. Shahagola (In-Charge)",
+      "opening_balance": 1405.0,
+      "received": 0.0,
+      "total": 1405.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1405.0,
+      "distribution": 835.0,
+      "closing_balance": 570.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Kha, NAZMA BEGUM, FWA, FWA, 01. Shahagola",
+      "opening_balance": 910.0,
+      "received": 1300.0,
+      "total": 2210.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 2210.0,
+      "distribution": 0.0,
+      "closing_balance": 2210.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/Ka, NASRINA PARVIN, FWA, 05. Bisha (In-Charge)",
+      "opening_balance": 705.0,
+      "received": 100.0,
+      "total": 805.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 805.0,
+      "distribution": 480.0,
+      "closing_balance": 325.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

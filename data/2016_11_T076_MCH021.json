@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T076",
+    "item_code": "MCH021",
+    "scraped_at": "2025-02-08T19:11:13.124694"
+  },
+  "data": [
+    {
+      "facility": "1/ Kha, Kawsar Parvin, FWA, (Incharge), Islampur",
+      "opening_balance": 148.0,
+      "received": 0.0,
+      "total": 148.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 148.0,
+      "distribution": 0.0,
+      "closing_balance": 148.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Kha, KAWSAR PARVIN, FWA, 01. Islampur",
+      "opening_balance": 110.0,
+      "received": 0.0,
+      "total": 110.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 110.0,
+      "distribution": 8.0,
+      "closing_balance": 102.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Ka, MONJIRA BEGUM, FWA, 01. Islampur",
+      "opening_balance": 78.0,
+      "received": 0.0,
+      "total": 78.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 78.0,
+      "distribution": 10.0,
+      "closing_balance": 68.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/ Kha, Sefali Rani Biswas, FWA, Islampur",
+      "opening_balance": 118.0,
+      "received": 0.0,
+      "total": 118.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 118.0,
+      "distribution": 0.0,
+      "closing_balance": 118.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

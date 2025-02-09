@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T387",
+    "item_code": "CON009",
+    "scraped_at": "2025-02-08T19:13:18.369787"
+  },
+  "data": [
+    {
+      "facility": "1/Ka, SUPROVA RANI DAS, FWA, 01. Barni",
+      "opening_balance": 32.0,
+      "received": 0.0,
+      "total": 32.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 32.0,
+      "distribution": 0.0,
+      "closing_balance": 32.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/Kha, SULTANA BEGUM, FWA, 01. Barni",
+      "opening_balance": 46.0,
+      "received": 0.0,
+      "total": 46.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 46.0,
+      "distribution": 4.0,
+      "closing_balance": 42.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Ka, SHIRINA AKTAR, FWA, 01. Barni",
+      "opening_balance": 18.0,
+      "received": 0.0,
+      "total": 18.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 18.0,
+      "distribution": 9.0,
+      "closing_balance": 9.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Ka, KAMONA RANI DAS, FWA, 01. Barni",
+      "opening_balance": 42.0,
+      "received": 0.0,
+      "total": 42.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 42.0,
+      "distribution": 6.0,
+      "closing_balance": 36.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

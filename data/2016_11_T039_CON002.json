@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T039",
+    "item_code": "CON002",
+    "scraped_at": "2025-02-08T19:08:41.397050"
+  },
+  "data": [
+    {
+      "facility": "1/Ka, AJUFA BEGUM, FWA, 01. Jahangirnagar",
+      "opening_balance": 236.0,
+      "received": 100.0,
+      "total": 336.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 336.0,
+      "distribution": 120.0,
+      "closing_balance": 216.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/Kha, AJUFA BEGUM, FWA, 01. Jahangirnagar (In-Charge)",
+      "opening_balance": 4.0,
+      "received": 0.0,
+      "total": 4.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 4.0,
+      "distribution": 4.0,
+      "closing_balance": 0.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Ka, MAHENUR BEGUM, FWA, 01. Jahangirnagar",
+      "opening_balance": 326.0,
+      "received": 300.0,
+      "total": 626.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 626.0,
+      "distribution": 216.0,
+      "closing_balance": 410.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Ga, MAHENUR BEGUM, FWA, 01. Jahangirnagar (In-Charge)",
+      "opening_balance": 530.0,
+      "received": 300.0,
+      "total": 830.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 830.0,
+      "distribution": 300.0,
+      "closing_balance": 530.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/ Kha, Sahara Begum, FWA, Jahangirnagar",
+      "opening_balance": 354.0,
+      "received": 0.0,
+      "total": 354.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 354.0,
+      "distribution": 156.0,
+      "closing_balance": 198.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Kha, SAHANA PARVIN, FWA, 01. Jahangirnagar",
+      "opening_balance": 284.0,
+      "received": 0.0,
+      "total": 284.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 284.0,
+      "distribution": 72.0,
+      "closing_balance": 212.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/ Ka, Sahana Parvin, FWA (in charge), Jahangirnagar",
+      "opening_balance": 498.0,
+      "received": 0.0,
+      "total": 498.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 498.0,
+      "distribution": 48.0,
+      "closing_balance": 450.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T227",
+    "item_code": "CON001",
+    "scraped_at": "2025-02-08T19:08:12.909727"
+  },
+  "data": [
+    {
+      "facility": "1/Kha, MOUSUMI BANU, FWA, 01. Shahagola (In-Charge)",
+      "opening_balance": 4.0,
+      "received": 1.0,
+      "total": 5.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 5.0,
+      "distribution": 2.0,
+      "closing_balance": 3.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Ka, SALMA KHATUN, FWA, 01. Shahagola",
+      "opening_balance": 52.0,
+      "received": 16.0,
+      "total": 68.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 68.0,
+      "distribution": 20.0,
+      "closing_balance": 48.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Ka, NAZMA BEGUM, FWA, FWA, 01. Shahagola (In-Charge)",
+      "opening_balance": 22.0,
+      "received": 10.0,
+      "total": 32.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 32.0,
+      "distribution": 18.0,
+      "closing_balance": 14.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Kha, NAZMA BEGUM, FWA, FWA, 01. Shahagola",
+      "opening_balance": 19.0,
+      "received": 26.0,
+      "total": 45.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 45.0,
+      "distribution": 13.0,
+      "closing_balance": 32.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/Ka, NASRINA PARVIN, FWA, 05. Bisha (In-Charge)",
+      "opening_balance": 5.0,
+      "received": 45.0,
+      "total": 50.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 50.0,
+      "distribution": 5.0,
+      "closing_balance": 45.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

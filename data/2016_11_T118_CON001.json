@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T118",
+    "item_code": "CON001",
+    "scraped_at": "2025-02-08T19:12:51.348874"
+  },
+  "data": [
+    {
+      "facility": "1 No Ward, HAFSA KHANAM, FWA, 01. Bausi",
+      "opening_balance": 226.0,
+      "received": 80.0,
+      "total": 306.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 306.0,
+      "distribution": 74.0,
+      "closing_balance": 232.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Ka, AFROZA MIMI, VOLANTURE, 01. Bausi",
+      "opening_balance": 131.0,
+      "received": 45.0,
+      "total": 176.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 176.0,
+      "distribution": 39.0,
+      "closing_balance": 137.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Kha, RATNA AKTER, FWA, 01. Bausi",
+      "opening_balance": 143.0,
+      "received": 50.0,
+      "total": 193.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 193.0,
+      "distribution": 42.0,
+      "closing_balance": 151.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Ka, ALOKA RANI SARKER, FWA, 01. Bausi",
+      "opening_balance": 152.0,
+      "received": 50.0,
+      "total": 202.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 202.0,
+      "distribution": 48.0,
+      "closing_balance": 154.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/ Kha, Indira Rani Chanda, FWA, Bausi",
+      "opening_balance": 228.0,
+      "received": 80.0,
+      "total": 308.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 308.0,
+      "distribution": 80.0,
+      "closing_balance": 228.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

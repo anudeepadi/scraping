@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T155",
+    "item_code": "CON009",
+    "scraped_at": "2025-02-08T19:05:26.921779"
+  },
+  "data": [
+    {
+      "facility": "1/Ka, AKHI YASMIN, FWA, 01. Adamdighi",
+      "opening_balance": 0.0,
+      "received": 0.0,
+      "total": 0.0,
+      "adj_plus": 60.0,
+      "adj_minus": 0.0,
+      "grand_total": 60.0,
+      "distribution": 0.0,
+      "closing_balance": 60.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/ ka, Rahamat Ara, FWA, In Charge, Adamdighi",
+      "opening_balance": 60.0,
+      "received": 0.0,
+      "total": 60.0,
+      "adj_plus": 0.0,
+      "adj_minus": 60.0,
+      "grand_total": 0.0,
+      "distribution": 0.0,
+      "closing_balance": 0.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": false
+    },
+    {
+      "facility": "1/ kha, Rahamat Ara, FWA, Adamdighi",
+      "opening_balance": 46.0,
+      "received": 0.0,
+      "total": 46.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 46.0,
+      "distribution": 12.0,
+      "closing_balance": 34.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Ka, REHENA KHATUN, FWA, 01. Adamdighi (In-Charge)",
+      "opening_balance": 36.0,
+      "received": 0.0,
+      "total": 36.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 36.0,
+      "distribution": 15.0,
+      "closing_balance": 21.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Kha, REHENA KHATUN, FWA, 01. Adamdighi",
+      "opening_balance": 42.0,
+      "received": 0.0,
+      "total": 42.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 42.0,
+      "distribution": 32.0,
+      "closing_balance": 10.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Kha, NUR BANU KHANAM, FWA, 01. Adamdighi",
+      "opening_balance": 31.0,
+      "received": 0.0,
+      "total": 31.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 31.0,
+      "distribution": 2.0,
+      "closing_balance": 29.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/ ka, Fougiya Hossain, FWA, Adamdighi",
+      "opening_balance": 60.0,
+      "received": 0.0,
+      "total": 60.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 60.0,
+      "distribution": 0.0,
+      "closing_balance": 60.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

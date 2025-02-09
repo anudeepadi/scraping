@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T212",
+    "item_code": "CON008+CON010",
+    "scraped_at": "2025-02-08T19:09:59.666061"
+  },
+  "data": [
+    {
+      "facility": "1/Ka, ALEYA KHATUN, FWA, 01. Gobindapara (In-Charge)",
+      "opening_balance": 890.0,
+      "received": 375.0,
+      "total": 1265.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1265.0,
+      "distribution": 374.0,
+      "closing_balance": 891.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/Kha, ALEYA KHATUN, FWA, 01. Gobindapara (In-Charge)",
+      "opening_balance": 944.0,
+      "received": 15.0,
+      "total": 959.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 959.0,
+      "distribution": 377.0,
+      "closing_balance": 582.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2, ALEYA KHATUN, FWA, 01. Gobindapara",
+      "opening_balance": 890.0,
+      "received": 225.0,
+      "total": 1115.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1115.0,
+      "distribution": 300.0,
+      "closing_balance": 815.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Kha, ALEYA KHATUN, FWA, 01. Gobindapara (In-Charge)",
+      "opening_balance": 673.0,
+      "received": 270.0,
+      "total": 943.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 943.0,
+      "distribution": 280.0,
+      "closing_balance": 663.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2 No. Ward, ALEYA KHATUN, FWA, 01. Gobindapara (In-Charge)",
+      "opening_balance": 75.0,
+      "received": 555.0,
+      "total": 630.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 630.0,
+      "distribution": 220.0,
+      "closing_balance": 410.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T144",
+    "item_code": "CON008",
+    "scraped_at": "2025-02-08T19:13:35.761688"
+  },
+  "data": [
+    {
+      "facility": "1/ Ka , Monoara Akter, FWA, Basail",
+      "opening_balance": 590.0,
+      "received": 450.0,
+      "total": 1040.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1040.0,
+      "distribution": 378.0,
+      "closing_balance": 662.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/Kha, FEROJA AKTER, FWA, 01. Basail",
+      "opening_balance": 234.0,
+      "received": 105.0,
+      "total": 339.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 339.0,
+      "distribution": 115.0,
+      "closing_balance": 224.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Ka, YASMIN AKTER, FWA, 01. Basail",
+      "opening_balance": 473.0,
+      "received": 210.0,
+      "total": 683.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 683.0,
+      "distribution": 280.0,
+      "closing_balance": 403.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/ ka, Amena khanom, FWA, Basail",
+      "opening_balance": 408.0,
+      "received": 135.0,
+      "total": 543.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 543.0,
+      "distribution": 100.0,
+      "closing_balance": 443.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Kha, ANOWARA KHATUN, FWA, 01. Basail",
+      "opening_balance": 784.0,
+      "received": 270.0,
+      "total": 1054.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1054.0,
+      "distribution": 411.0,
+      "closing_balance": 643.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/ Kha, Esmot Ara Khanom, FWA , Basail",
+      "opening_balance": 637.0,
+      "received": 555.0,
+      "total": 1192.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1192.0,
+      "distribution": 502.0,
+      "closing_balance": 690.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

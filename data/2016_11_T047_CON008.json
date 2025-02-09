@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T047",
+    "item_code": "CON008",
+    "scraped_at": "2025-02-08T19:11:26.458643"
+  },
+  "data": [
+    {
+      "facility": "1/Kha, NAHAR PARVIN, FWA, 01. Bisharkandi",
+      "opening_balance": 692.0,
+      "received": 375.0,
+      "total": 1067.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1067.0,
+      "distribution": 333.0,
+      "closing_balance": 734.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/ Ka, Nasrin sultana, FWA, Bisharkandi",
+      "opening_balance": 724.0,
+      "received": 315.0,
+      "total": 1039.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1039.0,
+      "distribution": 375.0,
+      "closing_balance": 664.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Ka, SHARMIN AKTAR, FWA, 01. Bisharkandi (In-Charge)",
+      "opening_balance": 790.0,
+      "received": 435.0,
+      "total": 1225.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1225.0,
+      "distribution": 386.0,
+      "closing_balance": 839.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Kha, SHARMIN AKTER, FWA, 01. Bisharkandi",
+      "opening_balance": 760.0,
+      "received": 450.0,
+      "total": 1210.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1210.0,
+      "distribution": 375.0,
+      "closing_balance": 835.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/ kha, Nasrin Sultana, FWA, Bisharkandi(incharge)",
+      "opening_balance": 535.0,
+      "received": 345.0,
+      "total": 880.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 880.0,
+      "distribution": 330.0,
+      "closing_balance": 550.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

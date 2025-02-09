@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T184",
+    "item_code": "CON008",
+    "scraped_at": "2025-02-08T19:08:17.836292"
+  },
+  "data": [
+    {
+      "facility": "1/Ka, SULTANA PARVIN , FWA, 01. Mirzapur",
+      "opening_balance": 446.0,
+      "received": 75.0,
+      "total": 521.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 521.0,
+      "distribution": 228.0,
+      "closing_balance": 293.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/ Kha, Amina Begum, FWA, Mirzapur",
+      "opening_balance": 614.0,
+      "received": 300.0,
+      "total": 914.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 914.0,
+      "distribution": 378.0,
+      "closing_balance": 536.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Ka, Mehera Akhtar,FWA(incharge),Mirzapur",
+      "opening_balance": 488.0,
+      "received": 165.0,
+      "total": 653.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 653.0,
+      "distribution": 295.0,
+      "closing_balance": 358.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Ka, SURAIA BEGUM, FWA, 01. Mirzapur",
+      "opening_balance": 542.0,
+      "received": 390.0,
+      "total": 932.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 932.0,
+      "distribution": 262.0,
+      "closing_balance": 670.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Kha, ANJUMANARA BEGUM, FWA, 01. Mirzapur",
+      "opening_balance": 614.0,
+      "received": 270.0,
+      "total": 884.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 884.0,
+      "distribution": 276.0,
+      "closing_balance": 608.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Kha, Mehera Akhtar Banu FWA , Mirzapur",
+      "opening_balance": 636.0,
+      "received": 195.0,
+      "total": 831.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 831.0,
+      "distribution": 314.0,
+      "closing_balance": 517.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

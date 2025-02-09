@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T302",
+    "item_code": "CON002",
+    "scraped_at": "2025-02-08T19:06:49.865691"
+  },
+  "data": [
+    {
+      "facility": "1/Ka, MAHAFUZA BEGUM, FWA, 01. Alikadam Sadar",
+      "opening_balance": 584.0,
+      "received": 300.0,
+      "total": 884.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 884.0,
+      "distribution": 384.0,
+      "closing_balance": 500.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/Kha, UNUSUNG MARMA, FWA, 01. Alikadam Sadar",
+      "opening_balance": 522.0,
+      "received": 200.0,
+      "total": 722.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 722.0,
+      "distribution": 432.0,
+      "closing_balance": 290.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/Ga, HAY MAY CHING MARMA, FWA, 01. Alikadam Sadar",
+      "opening_balance": 669.0,
+      "received": 300.0,
+      "total": 969.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 969.0,
+      "distribution": 456.0,
+      "closing_balance": 513.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2 No Ward, BHARMAITI TRIPURA, FWA, 01. Alikadam Sadar",
+      "opening_balance": 527.0,
+      "received": 100.0,
+      "total": 627.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 627.0,
+      "distribution": 360.0,
+      "closing_balance": 267.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Ka, HA LA YEA MARMA, FWA, 01. Alikadam Sadar",
+      "opening_balance": 400.0,
+      "received": 200.0,
+      "total": 600.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 600.0,
+      "distribution": 264.0,
+      "closing_balance": 336.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/ Ka, Sainung Marma, FWA, Alikadam",
+      "opening_balance": 395.0,
+      "received": 200.0,
+      "total": 595.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 595.0,
+      "distribution": 264.0,
+      "closing_balance": 331.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

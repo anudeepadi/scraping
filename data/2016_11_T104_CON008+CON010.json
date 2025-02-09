@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T104",
+    "item_code": "CON008+CON010",
+    "scraped_at": "2025-02-08T19:08:29.561824"
+  },
+  "data": [
+    {
+      "facility": "1/Ka, ROKSANA JAHAN, FWA, 01. Dewghar",
+      "opening_balance": 170.0,
+      "received": 90.0,
+      "total": 260.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 260.0,
+      "distribution": 184.0,
+      "closing_balance": 76.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/ Ka, Feroga Begum, FWA, Dewghar",
+      "opening_balance": 403.0,
+      "received": 180.0,
+      "total": 583.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 583.0,
+      "distribution": 209.0,
+      "closing_balance": 374.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Kha, SHAMIMA AKTER, FWA, 01. Dewghar",
+      "opening_balance": 417.0,
+      "received": 150.0,
+      "total": 567.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 567.0,
+      "distribution": 231.0,
+      "closing_balance": 336.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Kha, MOMTAZ BEGUM, FWA, 01. Dewghar",
+      "opening_balance": 665.0,
+      "received": 225.0,
+      "total": 890.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 890.0,
+      "distribution": 379.0,
+      "closing_balance": 511.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

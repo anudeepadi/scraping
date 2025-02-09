@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T368",
+    "item_code": "CON001",
+    "scraped_at": "2025-02-08T19:10:51.045570"
+  },
+  "data": [
+    {
+      "facility": "1/Ka, SOMPA RANI PAUL, FWA, Umor Pur",
+      "opening_balance": 15.0,
+      "received": 18.0,
+      "total": 33.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 33.0,
+      "distribution": 0.0,
+      "closing_balance": 33.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/ Kha, AYTUN NESSA, FWA, Umor Pur",
+      "opening_balance": 57.0,
+      "received": 18.0,
+      "total": 75.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 75.0,
+      "distribution": 0.0,
+      "closing_balance": 75.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Ka, GITA RANI DAS, FWA, Umor Pur",
+      "opening_balance": 27.0,
+      "received": 20.0,
+      "total": 47.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 47.0,
+      "distribution": 0.0,
+      "closing_balance": 47.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Kha, GITA RANI DAS, FWA, Umor Pur",
+      "opening_balance": 18.0,
+      "received": 18.0,
+      "total": 36.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 36.0,
+      "distribution": 0.0,
+      "closing_balance": 36.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Ka, SAMPA RANI DEB, FWA, Umor Pur",
+      "opening_balance": 20.0,
+      "received": 12.0,
+      "total": 32.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 32.0,
+      "distribution": 0.0,
+      "closing_balance": 32.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

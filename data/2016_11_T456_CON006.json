@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T456",
+    "item_code": "CON006",
+    "scraped_at": "2025-02-08T19:06:29.488455"
+  },
+  "data": [
+    {
+      "facility": "1/Ka, NAZMA KHATUN, FWA, 01. Vangbaria",
+      "opening_balance": 37.0,
+      "received": 50.0,
+      "total": 87.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 87.0,
+      "distribution": 12.0,
+      "closing_balance": 75.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/Kha, JESMINARA, FWA, 01. Vangbaria",
+      "opening_balance": 89.0,
+      "received": 0.0,
+      "total": 89.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 89.0,
+      "distribution": 59.0,
+      "closing_balance": 30.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Ka, TANIA PARVIN, FWA, 01. Vangbaria (In-Charge)",
+      "opening_balance": 90.0,
+      "received": 0.0,
+      "total": 90.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 90.0,
+      "distribution": 0.0,
+      "closing_balance": 90.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Ka, RASHIDA NAJNIN, FWA, 01. Vangbaria",
+      "opening_balance": 65.0,
+      "received": 50.0,
+      "total": 115.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 115.0,
+      "distribution": 40.0,
+      "closing_balance": 75.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Ka, NONDA RANI, FWA, 01. Vangbaria",
+      "opening_balance": 95.0,
+      "received": 0.0,
+      "total": 95.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 95.0,
+      "distribution": 43.0,
+      "closing_balance": 52.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

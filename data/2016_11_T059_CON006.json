@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T059",
+    "item_code": "CON006",
+    "scraped_at": "2025-02-08T19:06:40.806330"
+  },
+  "data": [
+    {
+      "facility": "1/Kha, SYEDA SARMIMA KHANUM, FWA, 01. Buraich",
+      "opening_balance": 28.0,
+      "received": 0.0,
+      "total": 28.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 28.0,
+      "distribution": 15.0,
+      "closing_balance": 13.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Ka, SATHI PARVEN, FWA, 01. Buraich",
+      "opening_balance": 86.0,
+      "received": 0.0,
+      "total": 86.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 86.0,
+      "distribution": 20.0,
+      "closing_balance": 66.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Kha, MUKTI SHIKDER, FWA, 01. Buraich",
+      "opening_balance": 47.0,
+      "received": 80.0,
+      "total": 127.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 127.0,
+      "distribution": 30.0,
+      "closing_balance": 97.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Ka, RABEYA KHANOM, FWA, 01. Buraich",
+      "opening_balance": 33.0,
+      "received": 10.0,
+      "total": 43.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 43.0,
+      "distribution": 15.0,
+      "closing_balance": 28.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Kha, CHOMPA, FWA, 01. Buraich",
+      "opening_balance": 30.0,
+      "received": 0.0,
+      "total": 30.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 30.0,
+      "distribution": 0.0,
+      "closing_balance": 30.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

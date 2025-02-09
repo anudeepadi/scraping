@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T322",
+    "item_code": "CON006",
+    "scraped_at": "2025-02-08T19:11:41.079580"
+  },
+  "data": [
+    {
+      "facility": "1/Ka, SABINA AKTER, FWA, 01. Tej Khali",
+      "opening_balance": 44.0,
+      "received": 31.0,
+      "total": 75.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 75.0,
+      "distribution": 34.0,
+      "closing_balance": 41.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/Kha, SRITY AKTER, FWA, 01. Tej Khali (In-Charge)",
+      "opening_balance": 51.0,
+      "received": 36.0,
+      "total": 87.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 87.0,
+      "distribution": 35.0,
+      "closing_balance": 52.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Ka, SRITY AKTER, FWA, 01. Tej Khali",
+      "opening_balance": 53.0,
+      "received": 37.0,
+      "total": 90.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 90.0,
+      "distribution": 30.0,
+      "closing_balance": 60.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Kha, SABINA AKTER, FWA, 01. Tej Khali",
+      "opening_balance": 40.0,
+      "received": 35.0,
+      "total": 75.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 75.0,
+      "distribution": 22.0,
+      "closing_balance": 53.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Ka, SAMIRA AKTER, FWA, 01. Tej Khali",
+      "opening_balance": 46.0,
+      "received": 32.0,
+      "total": 78.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 78.0,
+      "distribution": 25.0,
+      "closing_balance": 53.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Kha, SAMIRA AKTER, FWA, 01. Tej Khali (In-Charge)",
+      "opening_balance": 41.0,
+      "received": 25.0,
+      "total": 66.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 66.0,
+      "distribution": 22.0,
+      "closing_balance": 44.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

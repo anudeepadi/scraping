@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T429",
+    "item_code": "CON006",
+    "scraped_at": "2025-02-08T19:05:18.731592"
+  },
+  "data": [
+    {
+      "facility": "1/Kha, HABIBA YEASMIN, FWA, 01. Prembug",
+      "opening_balance": 74.0,
+      "received": 40.0,
+      "total": 114.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 114.0,
+      "distribution": 49.0,
+      "closing_balance": 65.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/ Ka, Nurun Nahar, FWA, Prembug",
+      "opening_balance": 101.0,
+      "received": 40.0,
+      "total": 141.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 141.0,
+      "distribution": 37.0,
+      "closing_balance": 104.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/Ga, TOHURA KHATUN, FWA, 01. Prembug",
+      "opening_balance": 68.0,
+      "received": 67.0,
+      "total": 135.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 135.0,
+      "distribution": 36.0,
+      "closing_balance": 99.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Ka, TASLIMA KHATUN, FWA, 01. Prembug",
+      "opening_balance": 60.0,
+      "received": 20.0,
+      "total": 80.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 80.0,
+      "distribution": 23.0,
+      "closing_balance": 57.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Kha, DELWARA KHATUN, FWA, 01. Prembug",
+      "opening_balance": 57.0,
+      "received": 30.0,
+      "total": 87.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 87.0,
+      "distribution": 35.0,
+      "closing_balance": 52.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Kha, ZESMIN ARA, FWA, 01. Prembug",
+      "opening_balance": 105.0,
+      "received": 30.0,
+      "total": 135.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 135.0,
+      "distribution": 59.0,
+      "closing_balance": 76.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

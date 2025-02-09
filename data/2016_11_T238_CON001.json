@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T238",
+    "item_code": "CON001",
+    "scraped_at": "2025-02-08T19:12:31.666252"
+  },
+  "data": [
+    {
+      "facility": "1/ Kha, Sahida Khatun, FWA, Jowari",
+      "opening_balance": 178.0,
+      "received": 50.0,
+      "total": 228.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 228.0,
+      "distribution": 45.0,
+      "closing_balance": 183.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Kha, SUPTY RANI SARKAR, FWA, 01. Jowari",
+      "opening_balance": 320.0,
+      "received": 0.0,
+      "total": 320.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 320.0,
+      "distribution": 81.0,
+      "closing_balance": 239.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Ga, ALEYA KHATUN, FWA, 01. Jowari",
+      "opening_balance": 104.0,
+      "received": 45.0,
+      "total": 149.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 149.0,
+      "distribution": 41.0,
+      "closing_balance": 108.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/ Ka, Ajena Khatun, FWA, Jowari",
+      "opening_balance": 144.0,
+      "received": 66.0,
+      "total": 210.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 210.0,
+      "distribution": 40.0,
+      "closing_balance": 170.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Kha, MARGARET KOSTA, FWA, 01. Jowari",
+      "opening_balance": 111.0,
+      "received": 110.0,
+      "total": 221.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 221.0,
+      "distribution": 28.0,
+      "closing_balance": 193.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Ga, SALINA PARVIN, FWA, 01. Jowari",
+      "opening_balance": 99.0,
+      "received": 40.0,
+      "total": 139.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 139.0,
+      "distribution": 40.0,
+      "closing_balance": 99.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

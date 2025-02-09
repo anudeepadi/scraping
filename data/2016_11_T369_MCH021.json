@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T369",
+    "item_code": "MCH021",
+    "scraped_at": "2025-02-08T19:14:11.543575"
+  },
+  "data": [
+    {
+      "facility": "1/Ka, SHIMA SHEM, FWA, ALINOGOR",
+      "opening_balance": 70.0,
+      "received": 0.0,
+      "total": 70.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 70.0,
+      "distribution": 0.0,
+      "closing_balance": 70.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Ka, PUSPO RANI BORAL, FWA, ALINOGOR",
+      "opening_balance": 60.0,
+      "received": 0.0,
+      "total": 60.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 60.0,
+      "distribution": 0.0,
+      "closing_balance": 60.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Kha, MST. LOTIFA BEGUM, FWA, ALINOGOR",
+      "opening_balance": 95.0,
+      "received": 0.0,
+      "total": 95.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 95.0,
+      "distribution": 0.0,
+      "closing_balance": 95.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Ka, SUNOYONA SHEM, FWA, ALINOGOR (In-Charge)",
+      "opening_balance": 1.0,
+      "received": 0.0,
+      "total": 1.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1.0,
+      "distribution": 0.0,
+      "closing_balance": 1.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Kha, SUNOYONA SHEM, FWA, ALINOGOR",
+      "opening_balance": 76.0,
+      "received": 0.0,
+      "total": 76.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 76.0,
+      "distribution": 0.0,
+      "closing_balance": 76.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

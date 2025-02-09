@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T127",
+    "item_code": "CON002",
+    "scraped_at": "2025-02-08T19:13:58.907542"
+  },
+  "data": [
+    {
+      "facility": "1/Ka, RINA KHAN, FWA, 01. Kachipara",
+      "opening_balance": 176.0,
+      "received": 300.0,
+      "total": 476.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 476.0,
+      "distribution": 132.0,
+      "closing_balance": 344.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/ Kha, Amena Begum,FWA, Kachipara",
+      "opening_balance": 1006.0,
+      "received": 0.0,
+      "total": 1006.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1006.0,
+      "distribution": 156.0,
+      "closing_balance": 850.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Kha, MOSA.ASMA AKTAR, FWA, 01. Kachipara",
+      "opening_balance": 66.0,
+      "received": 400.0,
+      "total": 466.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 466.0,
+      "distribution": 204.0,
+      "closing_balance": 262.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/ Ka, Amana, Fwa, Kachipara (incharge)",
+      "opening_balance": 496.0,
+      "received": 0.0,
+      "total": 496.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 496.0,
+      "distribution": 36.0,
+      "closing_balance": 460.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Ka, MOSA.NILUFA BEGUM, FWA, 01. Kachipara",
+      "opening_balance": 317.0,
+      "received": 0.0,
+      "total": 317.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 317.0,
+      "distribution": 250.0,
+      "closing_balance": 67.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

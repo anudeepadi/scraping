@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T133",
+    "item_code": "CON006",
+    "scraped_at": "2025-02-08T19:07:00.713135"
+  },
+  "data": [
+    {
+      "facility": "1/Kha, MRS MAKSUDA BEGUM, FWA, 01. Gilishakhali",
+      "opening_balance": 116.0,
+      "received": 43.0,
+      "total": 159.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 159.0,
+      "distribution": 45.0,
+      "closing_balance": 114.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/ Ka, Mrs Amena Begum, FWA, Gulishakhali",
+      "opening_balance": 75.0,
+      "received": 66.0,
+      "total": 141.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 141.0,
+      "distribution": 60.0,
+      "closing_balance": 81.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Ka, MRS HALIMA BEGUM, FWA, 01. Gilishakhali (In-Charge)",
+      "opening_balance": 30.0,
+      "received": 9.0,
+      "total": 39.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 39.0,
+      "distribution": 10.0,
+      "closing_balance": 29.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Kha, MRS HALIMA BEGUM, FWA, 01. Gilishakhali",
+      "opening_balance": 44.0,
+      "received": 25.0,
+      "total": 69.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 69.0,
+      "distribution": 22.0,
+      "closing_balance": 47.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Kha, MRS SAHIDA BEGUM, FWA, 01. Gilishakhali",
+      "opening_balance": 66.0,
+      "received": 27.0,
+      "total": 93.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 93.0,
+      "distribution": 32.0,
+      "closing_balance": 61.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/ Ka, Shahida(Incharge), FWA, Gulishakhali",
+      "opening_balance": 42.0,
+      "received": 33.0,
+      "total": 75.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 75.0,
+      "distribution": 25.0,
+      "closing_balance": 50.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

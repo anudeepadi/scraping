@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T380",
+    "item_code": "CON002",
+    "scraped_at": "2025-02-08T19:10:10.613209"
+  },
+  "data": [
+    {
+      "facility": "1, KHALADA AKTER, FWA, 01. Snanghat (In-Charge)",
+      "opening_balance": 440.0,
+      "received": 200.0,
+      "total": 640.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 640.0,
+      "distribution": 240.0,
+      "closing_balance": 400.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Ka, KHALADA AKTER, FWA, 01. Snanghat",
+      "opening_balance": 700.0,
+      "received": 700.0,
+      "total": 1400.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1400.0,
+      "distribution": 600.0,
+      "closing_balance": 800.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Kha, AROTI RANI DEV, FWA, 01. Snanghat",
+      "opening_balance": 200.0,
+      "received": 300.0,
+      "total": 500.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 500.0,
+      "distribution": 200.0,
+      "closing_balance": 300.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Ka, AROTI RANI DEB, FWA, 01. Snanghat, (In-Charge)",
+      "opening_balance": 350.0,
+      "received": 0.0,
+      "total": 350.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 350.0,
+      "distribution": 150.0,
+      "closing_balance": 200.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

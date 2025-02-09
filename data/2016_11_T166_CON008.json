@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T166",
+    "item_code": "CON008",
+    "scraped_at": "2025-02-08T19:06:15.404182"
+  },
+  "data": [
+    {
+      "facility": "1/Kha, MST. SULTANA BEGUM, FWA, 01. Rukindipur",
+      "opening_balance": 250.0,
+      "received": 210.0,
+      "total": 460.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 460.0,
+      "distribution": 120.0,
+      "closing_balance": 340.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/ Ka, Mst. Hosnera Begum, FWA, Rukindipur",
+      "opening_balance": 588.0,
+      "received": 225.0,
+      "total": 813.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 813.0,
+      "distribution": 100.0,
+      "closing_balance": 713.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/Ga, MST. SULTANA BEGUM, FWA, 01. Rukindipur",
+      "opening_balance": 390.0,
+      "received": 0.0,
+      "total": 390.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 390.0,
+      "distribution": 120.0,
+      "closing_balance": 270.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Kha, FERDOUSI BEGUM-1, FWA, 01. Rukindipur",
+      "opening_balance": 463.0,
+      "received": 270.0,
+      "total": 733.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 733.0,
+      "distribution": 208.0,
+      "closing_balance": 525.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/ Ka, Benu Rani Mondol, FWA, Rukindipur",
+      "opening_balance": 381.0,
+      "received": 285.0,
+      "total": 666.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 666.0,
+      "distribution": 366.0,
+      "closing_balance": 300.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Ga, FERDOUSI BEGUM-2, FWA, 01. Rukindipur",
+      "opening_balance": 637.0,
+      "received": 435.0,
+      "total": 1072.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1072.0,
+      "distribution": 300.0,
+      "closing_balance": 772.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/ Kha, Benu Rani Mondol, FWA (In-charge), Rukindipur",
+      "opening_balance": 185.0,
+      "received": 210.0,
+      "total": 395.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 395.0,
+      "distribution": 89.0,
+      "closing_balance": 306.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/ Ka, Ummea Kulsum, FWA, Rukindipur",
+      "opening_balance": 315.0,
+      "received": 150.0,
+      "total": 465.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 465.0,
+      "distribution": 200.0,
+      "closing_balance": 265.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

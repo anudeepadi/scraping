@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "code": "CON008",
+      "name": "Shukhi"
+    },
+    {
+      "code": "CON010",
+      "name": "Shukhi (3rd Gen)"
+    },
+    {
+      "code": "CON008+CON010",
+      "name": "Oral Pill (Total)"
+    },
+    {
+      "code": "CON009",
+      "name": "Oral Pill Apon"
+    },
+    {
+      "code": "CON002",
+      "name": "Condom"
+    },
+    {
+      "code": "CON006",
+      "name": "Injectables (Vials)"
+    },
+    {
+      "code": "CON001",
+      "name": "AD Syringe (1ML)"
+    },
+    {
+      "code": "CON003",
+      "name": "ECP"
+    },
+    {
+      "code": "MCH021",
+      "name": "Tab. Misoprostol (Dose)"
+    },
+    {
+      "code": "MCH051",
+      "name": "7.1% CHLOROHEXIDINE"
+    },
+    {
+      "code": "MCH012",
+      "name": "MNP(SUSSET)"
+    },
+    {
+      "code": "MCH018",
+      "name": "Iron-Folic Acid (NOS)"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T244",
+    "item_code": "MCH018",
+    "scraped_at": "2025-02-08T19:09:07.005062"
+  },
+  "data": [
+    {
+      "facility": "1/Ka, NAZMUN NAHAR, FWA, 01. Kalupara(B.gonj)Pouroshova",
+      "opening_balance": 60.0,
+      "received": 0.0,
+      "total": 60.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 60.0,
+      "distribution": 60.0,
+      "closing_balance": 0.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/Kha, MOST. KHARSHEDA KHATUN, FWA, 01. Kalupara(B.gonj)Pouroshova",
+      "opening_balance": 0.0,
+      "received": 1000.0,
+      "total": 1000.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1000.0,
+      "distribution": 0.0,
+      "closing_balance": 1000.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Ka, RUMA PARVIN, FWA, 01. Kalupara(B.gonj)Pouroshova",
+      "opening_balance": 730.0,
+      "received": 0.0,
+      "total": 730.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 730.0,
+      "distribution": 360.0,
+      "closing_balance": 370.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Kha, MONIRA SULTANA, FWA, 01. Kalupara(B.gonj)Pouroshova",
+      "opening_balance": 190.0,
+      "received": 0.0,
+      "total": 190.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 190.0,
+      "distribution": 190.0,
+      "closing_balance": 0.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Ka, SHEULY KHATUN, FWA, 01. Kalupara(B.gonj)Pouroshova",
+      "opening_balance": 600.0,
+      "received": 0.0,
+      "total": 600.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 600.0,
+      "distribution": 360.0,
+      "closing_balance": 240.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Kha, ANJU, FWA, 01. Kalupara(B.gonj)Pouroshova",
+      "opening_balance": 630.0,
+      "received": 0.0,
+      "total": 630.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 630.0,
+      "distribution": 540.0,
+      "closing_balance": 90.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T335",
+    "item_code": "CON002",
+    "scraped_at": "2025-02-08T19:14:18.012633"
+  },
+  "data": [
+    {
+      "facility": "1 No Ward, SHAHNAZ BEGUM, FWA, 01. Amanullapur",
+      "opening_balance": 1320.0,
+      "received": 600.0,
+      "total": 1920.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1920.0,
+      "distribution": 684.0,
+      "closing_balance": 1236.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Ka, NASRIN AKHTER,, FWA, 01. Amanullapur",
+      "opening_balance": 864.0,
+      "received": 500.0,
+      "total": 1364.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1364.0,
+      "distribution": 396.0,
+      "closing_balance": 968.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Kha, SHIRIN AKHTER, FWA, 01. Amanullapur",
+      "opening_balance": 1444.0,
+      "received": 700.0,
+      "total": 2144.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 2144.0,
+      "distribution": 708.0,
+      "closing_balance": 1436.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Ka, SHAHIDA AKHTER, FWA, 01. Amanullapur",
+      "opening_balance": 600.0,
+      "received": 300.0,
+      "total": 900.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 900.0,
+      "distribution": 348.0,
+      "closing_balance": 552.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Kha, RUMANA FERDOWS, FWA, 01. Amanullapur",
+      "opening_balance": 716.0,
+      "received": 0.0,
+      "total": 716.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 716.0,
+      "distribution": 276.0,
+      "closing_balance": 440.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

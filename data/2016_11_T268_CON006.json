@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T268",
+    "item_code": "CON006",
+    "scraped_at": "2025-02-08T19:05:39.207336"
+  },
+  "data": [
+    {
+      "facility": "1/Ka, MST.MAHFUZA KHATUN (INCHARGE), FWA, 01. Durgapur (In-Charge)",
+      "opening_balance": 41.0,
+      "received": 0.0,
+      "total": 41.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 41.0,
+      "distribution": 12.0,
+      "closing_balance": 29.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/Kha, MAHFUZA KHATUN, FWA, 01. Durgapur",
+      "opening_balance": 41.0,
+      "received": 4.0,
+      "total": 45.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 45.0,
+      "distribution": 0.0,
+      "closing_balance": 45.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Ka, ANWARA KHATUN, FWA, 01. Durgapur",
+      "opening_balance": 67.0,
+      "received": 29.0,
+      "total": 96.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 96.0,
+      "distribution": 25.0,
+      "closing_balance": 71.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Kha, SHELINA KHATUN, FWA, 01. Durgapur",
+      "opening_balance": 83.0,
+      "received": 40.0,
+      "total": 123.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 123.0,
+      "distribution": 38.0,
+      "closing_balance": 85.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Ka, TAHMINA AFROZE, FWA, 01. Durgapur",
+      "opening_balance": 115.0,
+      "received": 11.0,
+      "total": 126.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 126.0,
+      "distribution": 0.0,
+      "closing_balance": 126.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Kha, TAHMINA AFROZE, FWA, 01. Durgapur",
+      "opening_balance": 198.0,
+      "received": 0.0,
+      "total": 198.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 198.0,
+      "distribution": 104.0,
+      "closing_balance": 94.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

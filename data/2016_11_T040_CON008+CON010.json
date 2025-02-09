@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T040",
+    "item_code": "CON008+CON010",
+    "scraped_at": "2025-02-08T19:10:28.299075"
+  },
+  "data": [
+    {
+      "facility": "1/ Ka, Tahmina Begum, FWA, Charamoddi",
+      "opening_balance": 519.0,
+      "received": 90.0,
+      "total": 609.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 609.0,
+      "distribution": 300.0,
+      "closing_balance": 309.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/Kha, FERDOUS ARA, FWA, 01. Charamoddi (In-Charge)",
+      "opening_balance": 473.0,
+      "received": 150.0,
+      "total": 623.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 623.0,
+      "distribution": 216.0,
+      "closing_balance": 407.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Ka, SABINA YESMIN, FWA, 01. Charamoddi",
+      "opening_balance": 350.0,
+      "received": 180.0,
+      "total": 530.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 530.0,
+      "distribution": 194.0,
+      "closing_balance": 336.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Kha, SABINA YESMIN, FWA, 01. Charamoddi (In-Charge)",
+      "opening_balance": 356.0,
+      "received": 0.0,
+      "total": 356.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 356.0,
+      "distribution": 0.0,
+      "closing_balance": 356.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Ka, SALMA AKHATER, FWA, 01. Charamoddi (In-Charge)",
+      "opening_balance": 327.0,
+      "received": 330.0,
+      "total": 657.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 657.0,
+      "distribution": 298.0,
+      "closing_balance": 359.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Kha, SALMA AKTER, FWA, 01. Charamoddi",
+      "opening_balance": 522.0,
+      "received": 165.0,
+      "total": 687.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 687.0,
+      "distribution": 224.0,
+      "closing_balance": 463.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

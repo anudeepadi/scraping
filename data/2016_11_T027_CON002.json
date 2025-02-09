@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T027",
+    "item_code": "CON002",
+    "scraped_at": "2025-02-08T19:07:19.863139"
+  },
+  "data": [
+    {
+      "facility": "1/Ka, TAHMINA BEGUM, FWA, 01. Satgram",
+      "opening_balance": 335.0,
+      "received": 200.0,
+      "total": 535.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 535.0,
+      "distribution": 175.0,
+      "closing_balance": 360.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/Kha, MINARA BEGUM, FWA, 01. Satgram",
+      "opening_balance": 660.0,
+      "received": 100.0,
+      "total": 760.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 760.0,
+      "distribution": 400.0,
+      "closing_balance": 360.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/Ga, SELINA AKTER, FWA, FWA, 01. Satgram",
+      "opening_balance": 566.0,
+      "received": 100.0,
+      "total": 666.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 666.0,
+      "distribution": 192.0,
+      "closing_balance": 474.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Ka, UMME HANI(ANNI), FWA, 01. Satgram",
+      "opening_balance": 230.0,
+      "received": 0.0,
+      "total": 230.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 230.0,
+      "distribution": 72.0,
+      "closing_balance": 158.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Kha, SALEHA KHATUN, FWA, 01. Satgram",
+      "opening_balance": 288.0,
+      "received": 0.0,
+      "total": 288.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 288.0,
+      "distribution": 96.0,
+      "closing_balance": 192.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Ga, SALEHA KHATUN, FWA, 01. Satgram (In-Charge)",
+      "opening_balance": 201.0,
+      "received": 100.0,
+      "total": 301.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 301.0,
+      "distribution": 48.0,
+      "closing_balance": 253.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Ka, MASUDA AKTER, FWA, 01. Satgram (In-Charge)",
+      "opening_balance": 191.0,
+      "received": 100.0,
+      "total": 291.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 291.0,
+      "distribution": 96.0,
+      "closing_balance": 195.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Kha, MASUDA AKTER, FWA, 01. Satgram",
+      "opening_balance": 382.0,
+      "received": 200.0,
+      "total": 582.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 582.0,
+      "distribution": 408.0,
+      "closing_balance": 174.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

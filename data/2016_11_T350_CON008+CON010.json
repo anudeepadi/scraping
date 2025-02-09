@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T350",
+    "item_code": "CON008+CON010",
+    "scraped_at": "2025-02-08T19:09:40.456020"
+  },
+  "data": [
+    {
+      "facility": "1 No Ward, DIPA CHAKMA, FWA, 01. Bangaltali",
+      "opening_balance": 735.0,
+      "received": 360.0,
+      "total": 1095.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1095.0,
+      "distribution": 374.0,
+      "closing_balance": 721.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2 No Ward, USHA RANI CHAKMA, FWA, 01. Bangaltali",
+      "opening_balance": 392.0,
+      "received": 195.0,
+      "total": 587.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 587.0,
+      "distribution": 200.0,
+      "closing_balance": 387.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3 No Ward, USHA RANI CHAKMA, FWA, 01. Bangaltali (In-Charge)",
+      "opening_balance": 391.0,
+      "received": 210.0,
+      "total": 601.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 601.0,
+      "distribution": 200.0,
+      "closing_balance": 401.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

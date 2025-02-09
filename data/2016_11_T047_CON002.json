@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T047",
+    "item_code": "CON002",
+    "scraped_at": "2025-02-08T19:11:29.713671"
+  },
+  "data": [
+    {
+      "facility": "1/Kha, NAHAR PARVIN, FWA, 01. Bisharkandi",
+      "opening_balance": 370.0,
+      "received": 200.0,
+      "total": 570.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 570.0,
+      "distribution": 144.0,
+      "closing_balance": 426.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/ Ka, Nasrin sultana, FWA, Bisharkandi",
+      "opening_balance": 444.0,
+      "received": 300.0,
+      "total": 744.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 744.0,
+      "distribution": 168.0,
+      "closing_balance": 576.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Ka, SHARMIN AKTAR, FWA, 01. Bisharkandi (In-Charge)",
+      "opening_balance": 243.0,
+      "received": 200.0,
+      "total": 443.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 443.0,
+      "distribution": 132.0,
+      "closing_balance": 311.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Kha, SHARMIN AKTER, FWA, 01. Bisharkandi",
+      "opening_balance": 524.0,
+      "received": 200.0,
+      "total": 724.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 724.0,
+      "distribution": 192.0,
+      "closing_balance": 532.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/ kha, Nasrin Sultana, FWA, Bisharkandi(incharge)",
+      "opening_balance": 207.0,
+      "received": 200.0,
+      "total": 407.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 407.0,
+      "distribution": 108.0,
+      "closing_balance": 299.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

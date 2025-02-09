@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T239",
+    "item_code": "CON002",
+    "scraped_at": "2025-02-08T19:09:11.373942"
+  },
+  "data": [
+    {
+      "facility": "1/Ka, ROKEYA KHATUN, FWA, 01. Panka",
+      "opening_balance": 1480.0,
+      "received": 200.0,
+      "total": 1680.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1680.0,
+      "distribution": 490.0,
+      "closing_balance": 1190.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/Kha, MST. KHALEDA KHATUN, FWA, 01. Panka",
+      "opening_balance": 1090.0,
+      "received": 500.0,
+      "total": 1590.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1590.0,
+      "distribution": 600.0,
+      "closing_balance": 990.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/ Ka, Afroza Banu, FWA, Panka",
+      "opening_balance": 1300.0,
+      "received": 600.0,
+      "total": 1900.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1900.0,
+      "distribution": 300.0,
+      "closing_balance": 1600.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Kha, MST. DAIZY PARVIN, FWA, 01. Panka",
+      "opening_balance": 800.0,
+      "received": 1200.0,
+      "total": 2000.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 2000.0,
+      "distribution": 800.0,
+      "closing_balance": 1200.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Ka, PARVIN AKTER, FWA, 01. Panka",
+      "opening_balance": 690.0,
+      "received": 900.0,
+      "total": 1590.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1590.0,
+      "distribution": 800.0,
+      "closing_balance": 790.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/ Kha, Selima Banu, FWA, Panka",
+      "opening_balance": 2240.0,
+      "received": 100.0,
+      "total": 2340.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 2340.0,
+      "distribution": 1420.0,
+      "closing_balance": 920.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

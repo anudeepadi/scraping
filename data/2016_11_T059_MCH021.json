@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T059",
+    "item_code": "MCH021",
+    "scraped_at": "2025-02-08T19:06:43.310432"
+  },
+  "data": [
+    {
+      "facility": "1/Kha, SYEDA SARMIMA KHANUM, FWA, 01. Buraich",
+      "opening_balance": 47.0,
+      "received": 0.0,
+      "total": 47.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 47.0,
+      "distribution": 0.0,
+      "closing_balance": 47.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Ka, SATHI PARVEN, FWA, 01. Buraich",
+      "opening_balance": 48.0,
+      "received": 0.0,
+      "total": 48.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 48.0,
+      "distribution": 0.0,
+      "closing_balance": 48.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Kha, MUKTI SHIKDER, FWA, 01. Buraich",
+      "opening_balance": 76.0,
+      "received": 0.0,
+      "total": 76.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 76.0,
+      "distribution": 0.0,
+      "closing_balance": 76.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Ka, RABEYA KHANOM, FWA, 01. Buraich",
+      "opening_balance": 52.0,
+      "received": 0.0,
+      "total": 52.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 52.0,
+      "distribution": 0.0,
+      "closing_balance": 52.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Kha, CHOMPA, FWA, 01. Buraich",
+      "opening_balance": 56.0,
+      "received": 0.0,
+      "total": 56.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 56.0,
+      "distribution": 0.0,
+      "closing_balance": 56.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

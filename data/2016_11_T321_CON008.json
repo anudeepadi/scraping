@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T321",
+    "item_code": "CON008",
+    "scraped_at": "2025-02-08T19:06:04.810584"
+  },
+  "data": [
+    {
+      "facility": "1/ Ka, Begum ummay salema,inc (FWA), Akhaura (north)",
+      "opening_balance": 277.0,
+      "received": 30.0,
+      "total": 307.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 307.0,
+      "distribution": 96.0,
+      "closing_balance": 211.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/ Kha, Begum Ummay Salema (FWA), Akhaura (north)",
+      "opening_balance": 510.0,
+      "received": 240.0,
+      "total": 750.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 750.0,
+      "distribution": 207.0,
+      "closing_balance": 543.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/ Ka,Farzana Khanoom, Akhaura (north)",
+      "opening_balance": 535.0,
+      "received": 210.0,
+      "total": 745.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 745.0,
+      "distribution": 262.0,
+      "closing_balance": 483.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Ka, ROWSHAN ARA, FWA, 04. Akhaura (North) (In-Charge)",
+      "opening_balance": 457.0,
+      "received": 0.0,
+      "total": 457.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 457.0,
+      "distribution": 80.0,
+      "closing_balance": 377.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Kha, KHALADA AKTER, FWA, 04. Akhaura (North) (In-Charge)",
+      "opening_balance": 313.0,
+      "received": 180.0,
+      "total": 493.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 493.0,
+      "distribution": 202.0,
+      "closing_balance": 291.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Kha, ROWSHAN ARA, FWA, 04. Akhaura (North) (In-Charge)",
+      "opening_balance": 527.0,
+      "received": 240.0,
+      "total": 767.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 767.0,
+      "distribution": 264.0,
+      "closing_balance": 503.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

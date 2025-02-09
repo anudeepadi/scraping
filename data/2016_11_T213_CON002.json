@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T213",
+    "item_code": "CON002",
+    "scraped_at": "2025-02-08T19:09:32.267653"
+  },
+  "data": [
+    {
+      "facility": "1/Ka, AKTARA KHANOM, FWA, 01. Bajubagha",
+      "opening_balance": 2200.0,
+      "received": 1400.0,
+      "total": 3600.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 3600.0,
+      "distribution": 1800.0,
+      "closing_balance": 1800.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/Kha, AKTARA KHANUM, FWA, 01. Bajubagha",
+      "opening_balance": 1700.0,
+      "received": 1700.0,
+      "total": 3400.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 3400.0,
+      "distribution": 1500.0,
+      "closing_balance": 1900.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Kha, PADINI RANI, FWA, 01. Bajubagha (In-Charge)",
+      "opening_balance": 2460.0,
+      "received": 1900.0,
+      "total": 4360.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 4360.0,
+      "distribution": 1100.0,
+      "closing_balance": 3260.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/ kha, Lailatur Rahati, FWA, Baju Bagha",
+      "opening_balance": 1470.0,
+      "received": 1500.0,
+      "total": 2970.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 2970.0,
+      "distribution": 850.0,
+      "closing_balance": 2120.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Ga, SHUVRA SARKER, FWA, 01. Bajubagha",
+      "opening_balance": 340.0,
+      "received": 500.0,
+      "total": 840.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 840.0,
+      "distribution": 300.0,
+      "closing_balance": 540.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Ka, ANJUMAN ARA, FWA, 01. Bajubagha",
+      "opening_balance": 2350.0,
+      "received": 2300.0,
+      "total": 4650.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 4650.0,
+      "distribution": 1550.0,
+      "closing_balance": 3100.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Kha, MORJINA BEGUM, FWA, 01. Bajubagha",
+      "opening_balance": 2490.0,
+      "received": 1400.0,
+      "total": 3890.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 3890.0,
+      "distribution": 1640.0,
+      "closing_balance": 2250.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

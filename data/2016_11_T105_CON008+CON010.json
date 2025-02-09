@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T105",
+    "item_code": "CON008+CON010",
+    "scraped_at": "2025-02-08T19:10:18.550104"
+  },
+  "data": [
+    {
+      "facility": "1 No Ward, SYADA NARGIS, FWA, 01. Humaipur",
+      "opening_balance": 551.0,
+      "received": 0.0,
+      "total": 551.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 551.0,
+      "distribution": 226.0,
+      "closing_balance": 325.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2 No Ward, TAKASON BEGUM, FWA, 01. Humaipur",
+      "opening_balance": 357.0,
+      "received": 375.0,
+      "total": 732.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 732.0,
+      "distribution": 216.0,
+      "closing_balance": 516.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3 No. Ward, Sultana Begum, FWA, Humaipur",
+      "opening_balance": 591.0,
+      "received": 300.0,
+      "total": 891.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 891.0,
+      "distribution": 300.0,
+      "closing_balance": 591.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

@@ -1,0 +1,1981 @@
+{
+  "upazilas": [
+    {
+      "upazila_name": "Abhaynagar, Jashore",
+      "upazila_id": "T429"
+    },
+    {
+      "upazila_name": "Adamdighi, Bogura",
+      "upazila_id": "T155"
+    },
+    {
+      "upazila_name": "Aditmari, Lalmonirhat",
+      "upazila_id": "T268"
+    },
+    {
+      "upazila_name": "Agailjhara, Barishal",
+      "upazila_id": "T038"
+    },
+    {
+      "upazila_name": "Ajmiriganj, Habiganj",
+      "upazila_id": "T379"
+    },
+    {
+      "upazila_name": "Akhaura, Brahmanbaria",
+      "upazila_id": "T321"
+    },
+    {
+      "upazila_name": "Akkelpur, Joypurhat",
+      "upazila_id": "T166"
+    },
+    {
+      "upazila_name": "Alamdanga, Chuadanga",
+      "upazila_id": "T456"
+    },
+    {
+      "upazila_name": "Alfadanga, Faridpur",
+      "upazila_id": "T059"
+    },
+    {
+      "upazila_name": "Alikadam, Bandarban",
+      "upazila_id": "T302"
+    },
+    {
+      "upazila_name": "Amtali, Barguna",
+      "upazila_id": "T133"
+    },
+    {
+      "upazila_name": "Anowara, Chattogram",
+      "upazila_id": "T279"
+    },
+    {
+      "upazila_name": "Araihazar, Narayanganj",
+      "upazila_id": "T027"
+    },
+    {
+      "upazila_name": "Ashuganj, Brahmanbaria",
+      "upazila_id": "T471"
+    },
+    {
+      "upazila_name": "Assasuni, Satkhira",
+      "upazila_id": "T422"
+    },
+    {
+      "upazila_name": "Atgharia, Pabna",
+      "upazila_id": "T194"
+    },
+    {
+      "upazila_name": "Atpara, Netrakona",
+      "upazila_id": "T117"
+    },
+    {
+      "upazila_name": "Atrai, Naogaon",
+      "upazila_id": "T227"
+    },
+    {
+      "upazila_name": "Atwari, Panchagarh",
+      "upazila_id": "T184"
+    },
+    {
+      "upazila_name": "Austagram, Kishoreganj",
+      "upazila_id": "T104"
+    },
+    {
+      "upazila_name": "Babuganj, Barishal",
+      "upazila_id": "T039"
+    },
+    {
+      "upazila_name": "Badalgachhi, Naogaon",
+      "upazila_id": "T228"
+    },
+    {
+      "upazila_name": "Badarganj, Rangpur",
+      "upazila_id": "T244"
+    },
+    {
+      "upazila_name": "Bagatipara, Natore",
+      "upazila_id": "T239"
+    },
+    {
+      "upazila_name": "Bagerhat Sadar, Bagerhat",
+      "upazila_id": "T413"
+    },
+    {
+      "upazila_name": "Bagha, Rajshahi",
+      "upazila_id": "T213"
+    },
+    {
+      "upazila_name": "Baghaichhari, Rangamati",
+      "upazila_id": "T350"
+    },
+    {
+      "upazila_name": "Bagher Para, Jashore",
+      "upazila_id": "T430"
+    },
+    {
+      "upazila_name": "Baghmara, Rajshahi",
+      "upazila_id": "T212"
+    },
+    {
+      "upazila_name": "Bahubal, Habiganj",
+      "upazila_id": "T380"
+    },
+    {
+      "upazila_name": "Bajitpur, Kishoregonj",
+      "upazila_id": "T105"
+    },
+    {
+      "upazila_name": "Bakerganj, Barishal",
+      "upazila_id": "T040"
+    },
+    {
+      "upazila_name": "Bakshiganj, Jamalpur",
+      "upazila_id": "T080"
+    },
+    {
+      "upazila_name": "Balaganj, Sylhet",
+      "upazila_id": "T368"
+    },
+    {
+      "upazila_name": "Baliadangi, Thakurgaon",
+      "upazila_id": "T189"
+    },
+    {
+      "upazila_name": "Baliakandi, Rajbari",
+      "upazila_id": "T076"
+    },
+    {
+      "upazila_name": "Bamna, Barguna",
+      "upazila_id": "T134"
+    },
+    {
+      "upazila_name": "Banari Para, Barishal",
+      "upazila_id": "T047"
+    },
+    {
+      "upazila_name": "Banchharampur, Brahmanbaria",
+      "upazila_id": "T322"
+    },
+    {
+      "upazila_name": "Bandar, Narayanganj",
+      "upazila_id": "T028"
+    },
+    {
+      "upazila_name": "Bandarban Sadar, Bandarban",
+      "upazila_id": "T303"
+    },
+    {
+      "upazila_name": "Baniachong, Habiganj",
+      "upazila_id": "T381"
+    },
+    {
+      "upazila_name": "Banshkhali, Chattogram",
+      "upazila_id": "T280"
+    },
+    {
+      "upazila_name": "Baraigram, Natore",
+      "upazila_id": "T238"
+    },
+    {
+      "upazila_name": "Barguna Sadar, Barguna",
+      "upazila_id": "T135"
+    },
+    {
+      "upazila_name": "Barhatta, Netrakona",
+      "upazila_id": "T118"
+    },
+    {
+      "upazila_name": "Barishal Sadar (kotwali), Barishal",
+      "upazila_id": "T043"
+    },
+    {
+      "upazila_name": "Barkal, Rangamati",
+      "upazila_id": "T351"
+    },
+    {
+      "upazila_name": "Barlekha, Maulvibazar",
+      "upazila_id": "T387"
+    },
+    {
+      "upazila_name": "Barura, Cumilla",
+      "upazila_id": "T309"
+    },
+    {
+      "upazila_name": "Basail, Tangail",
+      "upazila_id": "T144"
+    },
+    {
+      "upazila_name": "Batiaghata, Khulna",
+      "upazila_id": "T403"
+    },
+    {
+      "upazila_name": "Bauphal, Patuakhali",
+      "upazila_id": "T127"
+    },
+    {
+      "upazila_name": "Beani Bazar, Sylhet",
+      "upazila_id": "T369"
+    },
+    {
+      "upazila_name": "Begumganj, Noakhali",
+      "upazila_id": "T335"
+    },
+    {
+      "upazila_name": "Belabo, Narsingdi",
+      "upazila_id": "T032"
+    },
+    {
+      "upazila_name": "Belai Chhari, Rangamati",
+      "upazila_id": "T352"
+    },
+    {
+      "upazila_name": "Belkuchi, Sirajganj",
+      "upazila_id": "T203"
+    },
+    {
+      "upazila_name": "Bera, Pabna",
+      "upazila_id": "T195"
+    },
+    {
+      "upazila_name": "Betagi, Barguna",
+      "upazila_id": "T136"
+    },
+    {
+      "upazila_name": "Bhairab, Kishoregonj",
+      "upazila_id": "T106"
+    },
+    {
+      "upazila_name": "Bhaluka, Mymensingh",
+      "upazila_id": "T092"
+    },
+    {
+      "upazila_name": "Bhandaria, Pirojpur",
+      "upazila_id": "T462"
+    },
+    {
+      "upazila_name": "Bhanga, Faridpur",
+      "upazila_id": "T060"
+    },
+    {
+      "upazila_name": "Bhangura, Pabna",
+      "upazila_id": "T196"
+    },
+    {
+      "upazila_name": "Bhedarganj, Shariatpur",
+      "upazila_id": "T138"
+    },
+    {
+      "upazila_name": "Bheramara, Kushtia",
+      "upazila_id": "T450"
+    },
+    {
+      "upazila_name": "Bhola Sadar, Bhola",
+      "upazila_id": "T052"
+    },
+    {
+      "upazila_name": "Bholahat, Chapai Nababganj",
+      "upazila_id": "T222"
+    },
+    {
+      "upazila_name": "Bhuapur, Tangail",
+      "upazila_id": "T145"
+    },
+    {
+      "upazila_name": "Bhurungamari, Kurigram",
+      "upazila_id": "T259"
+    },
+    {
+      "upazila_name": "Bijoynagar, Brahmanbaria",
+      "upazila_id": "T486"
+    },
+    {
+      "upazila_name": "Biral, Dinajpur",
+      "upazila_id": "T173"
+    },
+    {
+      "upazila_name": "Birampur, Dinajpur",
+      "upazila_id": "T171"
+    },
+    {
+      "upazila_name": "Birganj, Dinajpur",
+      "upazila_id": "T172"
+    },
+    {
+      "upazila_name": "Bishwambarpur, Sunamganj",
+      "upazila_id": "T393"
+    },
+    {
+      "upazila_name": "Bishwanath, Sylhet",
+      "upazila_id": "T370"
+    },
+    {
+      "upazila_name": "Boalia, Rajshahi",
+      "upazila_id": "T214"
+    },
+    {
+      "upazila_name": "Boalkhali, Chattogram",
+      "upazila_id": "T281"
+    },
+    {
+      "upazila_name": "Boalmari, Faridpur",
+      "upazila_id": "T061"
+    },
+    {
+      "upazila_name": "Bochaganj, Dinajpur",
+      "upazila_id": "T174"
+    },
+    {
+      "upazila_name": "Boda, Panchagarh",
+      "upazila_id": "T185"
+    },
+    {
+      "upazila_name": "Bogura Sadar, Bogura",
+      "upazila_id": "T156"
+    },
+    {
+      "upazila_name": "Brahman Para, Cumilla",
+      "upazila_id": "T310"
+    },
+    {
+      "upazila_name": "Brahmanbaria Sadar, Brahmanbaria",
+      "upazila_id": "T323"
+    },
+    {
+      "upazila_name": "Burhanuddin, Bhola",
+      "upazila_id": "T053"
+    },
+    {
+      "upazila_name": "Burichang, Cumilla",
+      "upazila_id": "T311"
+    },
+    {
+      "upazila_name": "Chakaria, Cox's Bazar",
+      "upazila_id": "T295"
+    },
+    {
+      "upazila_name": "Chandanaish, Chattogram",
+      "upazila_id": "T282"
+    },
+    {
+      "upazila_name": "Chandina, Cumilla",
+      "upazila_id": "T312"
+    },
+    {
+      "upazila_name": "Chandpur Sadar, Chandpur",
+      "upazila_id": "T328"
+    },
+    {
+      "upazila_name": "Chapai Nababganj Sadar, Chapai Nababganj",
+      "upazila_id": "T223"
+    },
+    {
+      "upazila_name": "Char Bhadrasan, Faridpur",
+      "upazila_id": "T062"
+    },
+    {
+      "upazila_name": "Char Fasson, Bhola",
+      "upazila_id": "T054"
+    },
+    {
+      "upazila_name": "Char Rajibpur, Kurigram",
+      "upazila_id": "T260"
+    },
+    {
+      "upazila_name": "Charghat, Rajshahi",
+      "upazila_id": "T215"
+    },
+    {
+      "upazila_name": "Chatkhil, Noakhali",
+      "upazila_id": "T336"
+    },
+    {
+      "upazila_name": "Chatmohar, Pabna",
+      "upazila_id": "T197"
+    },
+    {
+      "upazila_name": "Chauddagram, Cumilla",
+      "upazila_id": "T313"
+    },
+    {
+      "upazila_name": "Chaugachha, Jashore",
+      "upazila_id": "T431"
+    },
+    {
+      "upazila_name": "Chauhali, Sirajganj",
+      "upazila_id": "T204"
+    },
+    {
+      "upazila_name": "Chhagalnaiya, Feni",
+      "upazila_id": "T341"
+    },
+    {
+      "upazila_name": "Chhatak, Sunamganj",
+      "upazila_id": "T394"
+    },
+    {
+      "upazila_name": "Chilmari, Kurigram",
+      "upazila_id": "T261"
+    },
+    {
+      "upazila_name": "Chirirbandar, Dinajpur",
+      "upazila_id": "T175"
+    },
+    {
+      "upazila_name": "Chitalmari, Bagerhat",
+      "upazila_id": "T414"
+    },
+    {
+      "upazila_name": "Chuadanga Sadar, Chuadanga",
+      "upazila_id": "T457"
+    },
+    {
+      "upazila_name": "Chunarughat, Habiganj",
+      "upazila_id": "T382"
+    },
+    {
+      "upazila_name": "Companiganj, Noakhali",
+      "upazila_id": "T337"
+    },
+    {
+      "upazila_name": "Companiganj, Sylhet",
+      "upazila_id": "T371"
+    },
+    {
+      "upazila_name": "Cox's Bazar Sadar, Cox's Bazar",
+      "upazila_id": "T296"
+    },
+    {
+      "upazila_name": "Cumilla Adarsha Sadar , Cumilla",
+      "upazila_id": "T314"
+    },
+    {
+      "upazila_name": "Cumilla Sadar Dakshin , Cumilla",
+      "upazila_id": "T474"
+    },
+    {
+      "upazila_name": "Dacope, Khulna",
+      "upazila_id": "T404"
+    },
+    {
+      "upazila_name": "Daganbhuiyan, Feni",
+      "upazila_id": "T342"
+    },
+    {
+      "upazila_name": "Dakshin Sunamganj, Sunamganj",
+      "upazila_id": "T488"
+    },
+    {
+      "upazila_name": "Dakshin Surma, Sylhet",
+      "upazila_id": "T476"
+    },
+    {
+      "upazila_name": "Damudya, Shariatpur",
+      "upazila_id": "T139"
+    },
+    {
+      "upazila_name": "Damurhuda, Chuadanga",
+      "upazila_id": "T458"
+    },
+    {
+      "upazila_name": "Dasar, Madaripur",
+      "upazila_id": "T494"
+    },
+    {
+      "upazila_name": "Dashmina, Patuakhali",
+      "upazila_id": "T128"
+    },
+    {
+      "upazila_name": "Daudkandi, Cumilla",
+      "upazila_id": "T315"
+    },
+    {
+      "upazila_name": "Daulat Khan, Bhola",
+      "upazila_id": "T055"
+    },
+    {
+      "upazila_name": "Daulatpur, Khulna",
+      "upazila_id": "T405"
+    },
+    {
+      "upazila_name": "Daulatpur, Kushtia",
+      "upazila_id": "T451"
+    },
+    {
+      "upazila_name": "Daulatpur, Manikganj",
+      "upazila_id": "T014"
+    },
+    {
+      "upazila_name": "Debhata, Satkhira",
+      "upazila_id": "T423"
+    },
+    {
+      "upazila_name": "Debidwar, Cumilla",
+      "upazila_id": "T316"
+    },
+    {
+      "upazila_name": "Debiganj, Panchagarh",
+      "upazila_id": "T186"
+    },
+    {
+      "upazila_name": "Delduar, Tangail",
+      "upazila_id": "T146"
+    },
+    {
+      "upazila_name": "Derai, Sunamganj",
+      "upazila_id": "T395"
+    },
+    {
+      "upazila_name": "Dewanganj, Jamalpur",
+      "upazila_id": "T081"
+    },
+    {
+      "upazila_name": "Dhamoirhat, Naogaon",
+      "upazila_id": "T229"
+    },
+    {
+      "upazila_name": "Dhamrai, Dhaka",
+      "upazila_id": "T001"
+    },
+    {
+      "upazila_name": "Dhanbari, Tangail",
+      "upazila_id": "T493"
+    },
+    {
+      "upazila_name": "Dharampasha, Sunamganj",
+      "upazila_id": "T396"
+    },
+    {
+      "upazila_name": "Dhobaura, Mymensingh",
+      "upazila_id": "T103"
+    },
+    {
+      "upazila_name": "Dhunat, Bogura",
+      "upazila_id": "T157"
+    },
+    {
+      "upazila_name": "Dhupchanchia, Bogura",
+      "upazila_id": "T158"
+    },
+    {
+      "upazila_name": "Dighinala, Khagrachhari",
+      "upazila_id": "T360"
+    },
+    {
+      "upazila_name": "Dimla, Nilphamari",
+      "upazila_id": "T273"
+    },
+    {
+      "upazila_name": "Dinajpur Sadar, Dinajpur",
+      "upazila_id": "T176"
+    },
+    {
+      "upazila_name": "Dohar, Dhaka",
+      "upazila_id": "T002"
+    },
+    {
+      "upazila_name": "Domar, Nilphamari",
+      "upazila_id": "T274"
+    },
+    {
+      "upazila_name": "Double Mooring, Chattogram",
+      "upazila_id": "T283"
+    },
+    {
+      "upazila_name": "Dowarabazar, Sunamganj",
+      "upazila_id": "T397"
+    },
+    {
+      "upazila_name": "Dumki, Patuakhali",
+      "upazila_id": "T469"
+    },
+    {
+      "upazila_name": "Dumuria, Khulna",
+      "upazila_id": "T406"
+    },
+    {
+      "upazila_name": "Durgapur, Netrakona",
+      "upazila_id": "T119"
+    },
+    {
+      "upazila_name": "Durgapur, Rajshahi",
+      "upazila_id": "T216"
+    },
+    {
+      "upazila_name": "Fakirhat, Bagerhat",
+      "upazila_id": "T415"
+    },
+    {
+      "upazila_name": "Faridganj, Chandpur",
+      "upazila_id": "T329"
+    },
+    {
+      "upazila_name": "Faridpur Sadar, Faridpur",
+      "upazila_id": "T063"
+    },
+    {
+      "upazila_name": "Faridpur, Pabna",
+      "upazila_id": "T198"
+    },
+    {
+      "upazila_name": "Fatikchhari, Chattogram",
+      "upazila_id": "T284"
+    },
+    {
+      "upazila_name": "Fenchuganj, Sylhet",
+      "upazila_id": "T372"
+    },
+    {
+      "upazila_name": "Feni Sadar, Feni",
+      "upazila_id": "T343"
+    },
+    {
+      "upazila_name": "Fulbari, Dinajpur",
+      "upazila_id": "T177"
+    },
+    {
+      "upazila_name": "Fulbaria, Mymensingh",
+      "upazila_id": "T100"
+    },
+    {
+      "upazila_name": "Fulchhari, Gaibandha",
+      "upazila_id": "T252"
+    },
+    {
+      "upazila_name": "Fulgazi, Feni",
+      "upazila_id": "T470"
+    },
+    {
+      "upazila_name": "Gabtali, Bogura",
+      "upazila_id": "T159"
+    },
+    {
+      "upazila_name": "Gaffargaon, Mymensingh",
+      "upazila_id": "T093"
+    },
+    {
+      "upazila_name": "Gaibandha Sadar, Gaibandha",
+      "upazila_id": "T253"
+    },
+    {
+      "upazila_name": "Galachipa, Patuakhali",
+      "upazila_id": "T129"
+    },
+    {
+      "upazila_name": "Gangachara, Rangpur",
+      "upazila_id": "T245"
+    },
+    {
+      "upazila_name": "Gangni, Meherpur",
+      "upazila_id": "T460"
+    },
+    {
+      "upazila_name": "Gauripur, Mymensingh",
+      "upazila_id": "T094"
+    },
+    {
+      "upazila_name": "Gaurnadi, Barishal",
+      "upazila_id": "T041"
+    },
+    {
+      "upazila_name": "Gazaria, Munshiganj",
+      "upazila_id": "T021"
+    },
+    {
+      "upazila_name": "Gazipur Sadar, Gazipur",
+      "upazila_id": "T008"
+    },
+    {
+      "upazila_name": "Ghatail, Tangail",
+      "upazila_id": "T147"
+    },
+    {
+      "upazila_name": "Ghior, Manikganj",
+      "upazila_id": "T015"
+    },
+    {
+      "upazila_name": "Ghoraghat, Dinajpur",
+      "upazila_id": "T178"
+    },
+    {
+      "upazila_name": "Goalanda, Rajbari",
+      "upazila_id": "T077"
+    },
+    {
+      "upazila_name": "Gobindaganj, Gaibandha",
+      "upazila_id": "T254"
+    },
+    {
+      "upazila_name": "Godagari, Rajshahi",
+      "upazila_id": "T217"
+    },
+    {
+      "upazila_name": "Golapganj, Sylhet",
+      "upazila_id": "T373"
+    },
+    {
+      "upazila_name": "Gomastapur, Chapai Nababganj",
+      "upazila_id": "T224"
+    },
+    {
+      "upazila_name": "Gopalganj Sadar, Gopalganj",
+      "upazila_id": "T067"
+    },
+    {
+      "upazila_name": "Gopalpur, Tangail",
+      "upazila_id": "T148"
+    },
+    {
+      "upazila_name": "Gosairhat, Shariatpur",
+      "upazila_id": "T140"
+    },
+    {
+      "upazila_name": "Gowainghat, Sylhet",
+      "upazila_id": "T374"
+    },
+    {
+      "upazila_name": "Guimara, Khagrachhari",
+      "upazila_id": "T491"
+    },
+    {
+      "upazila_name": "Gurudaspur, Natore",
+      "upazila_id": "T240"
+    },
+    {
+      "upazila_name": "Habiganj Sadar, Habiganj",
+      "upazila_id": "T383"
+    },
+    {
+      "upazila_name": "Haim Char, Chandpur",
+      "upazila_id": "T331"
+    },
+    {
+      "upazila_name": "Hajiganj, Chandpur",
+      "upazila_id": "T330"
+    },
+    {
+      "upazila_name": "Hakimpur, Dinajpur",
+      "upazila_id": "T179"
+    },
+    {
+      "upazila_name": "Haluaghat, Mymensingh",
+      "upazila_id": "T095"
+    },
+    {
+      "upazila_name": "Harinakunda, Jhenaidah",
+      "upazila_id": "T437"
+    },
+    {
+      "upazila_name": "Haripur, Thakurgaon",
+      "upazila_id": "T190"
+    },
+    {
+      "upazila_name": "Harirampur, Manikganj",
+      "upazila_id": "T016"
+    },
+    {
+      "upazila_name": "Hathazari, Chattogram",
+      "upazila_id": "T285"
+    },
+    {
+      "upazila_name": "Hatibandha, Lalmonirhat",
+      "upazila_id": "T269"
+    },
+    {
+      "upazila_name": "Hatiya, Noakhali",
+      "upazila_id": "T338"
+    },
+    {
+      "upazila_name": "Hizla, Barishal",
+      "upazila_id": "T042"
+    },
+    {
+      "upazila_name": "Homna, Cumilla",
+      "upazila_id": "T317"
+    },
+    {
+      "upazila_name": "Hossainpur, Kishoreganj",
+      "upazila_id": "T107"
+    },
+    {
+      "upazila_name": "Indurkani, Pirojpur",
+      "upazila_id": "T483"
+    },
+    {
+      "upazila_name": "Ishwardi, Pabna",
+      "upazila_id": "T199"
+    },
+    {
+      "upazila_name": "Ishwarganj, Mymensingh",
+      "upazila_id": "T096"
+    },
+    {
+      "upazila_name": "Islampur, Jamalpur",
+      "upazila_id": "T082"
+    },
+    {
+      "upazila_name": "Itna, Kishoregonj",
+      "upazila_id": "T108"
+    },
+    {
+      "upazila_name": "Jagannathpur, Sunamganj",
+      "upazila_id": "T398"
+    },
+    {
+      "upazila_name": "Jaintiapur, Sylhet",
+      "upazila_id": "T375"
+    },
+    {
+      "upazila_name": "Jaldhaka, Nilphamari",
+      "upazila_id": "T275"
+    },
+    {
+      "upazila_name": "Jamalganj, Sunamganj",
+      "upazila_id": "T399"
+    },
+    {
+      "upazila_name": "Jamalpur Sadar, Jamalpur",
+      "upazila_id": "T083"
+    },
+    {
+      "upazila_name": "Jashore Sadar, Jashore",
+      "upazila_id": "T433"
+    },
+    {
+      "upazila_name": "Jhalokati Sadar, Jhalokati",
+      "upazila_id": "T048"
+    },
+    {
+      "upazila_name": "Jhenaidah Sadar, Jhenaidah",
+      "upazila_id": "T438"
+    },
+    {
+      "upazila_name": "Jhenaigati, Sherpur",
+      "upazila_id": "T087"
+    },
+    {
+      "upazila_name": "Jhikargachha, Jashore",
+      "upazila_id": "T432"
+    },
+    {
+      "upazila_name": "Jiban Nagar, Chuadanga",
+      "upazila_id": "T459"
+    },
+    {
+      "upazila_name": "Joypurhat Sadar, Joypurhat",
+      "upazila_id": "T167"
+    },
+    {
+      "upazila_name": "Jurai Chhari, Rangamati",
+      "upazila_id": "T354"
+    },
+    {
+      "upazila_name": "Juri, Maulvibazar",
+      "upazila_id": "T477"
+    },
+    {
+      "upazila_name": "Kabirhat, Noakhali",
+      "upazila_id": "T484"
+    },
+    {
+      "upazila_name": "Kachua, Bagerhat",
+      "upazila_id": "T416"
+    },
+    {
+      "upazila_name": "Kachua, Chandpur",
+      "upazila_id": "T332"
+    },
+    {
+      "upazila_name": "Kahaloo, Bogura",
+      "upazila_id": "T160"
+    },
+    {
+      "upazila_name": "Kaharole, Dinajpur",
+      "upazila_id": "T180"
+    },
+    {
+      "upazila_name": "Kalai, Joypurhat",
+      "upazila_id": "T168"
+    },
+    {
+      "upazila_name": "Kalapara, Patuakhali",
+      "upazila_id": "T130"
+    },
+    {
+      "upazila_name": "Kalaroa, Satkhira",
+      "upazila_id": "T425"
+    },
+    {
+      "upazila_name": "Kalia, Narail",
+      "upazila_id": "T447"
+    },
+    {
+      "upazila_name": "Kaliakair, Gazipur",
+      "upazila_id": "T009"
+    },
+    {
+      "upazila_name": "Kaliganj, Gazipur",
+      "upazila_id": "T010"
+    },
+    {
+      "upazila_name": "Kaliganj, Jhenaidah",
+      "upazila_id": "T439"
+    },
+    {
+      "upazila_name": "Kaliganj, Lalmonirhat",
+      "upazila_id": "T270"
+    },
+    {
+      "upazila_name": "Kaliganj, Satkhira",
+      "upazila_id": "T424"
+    },
+    {
+      "upazila_name": "Kalihati, Tangail",
+      "upazila_id": "T149"
+    },
+    {
+      "upazila_name": "Kalkini, Madaripur",
+      "upazila_id": "T072"
+    },
+    {
+      "upazila_name": "Kalmakanda, Netrakona",
+      "upazila_id": "T121"
+    },
+    {
+      "upazila_name": "Kalukhali, Rajbari",
+      "upazila_id": "T489"
+    },
+    {
+      "upazila_name": "Kamalganj, Maulvibazar",
+      "upazila_id": "T388"
+    },
+    {
+      "upazila_name": "Kamalnagar, Lakshmipur",
+      "upazila_id": "T485"
+    },
+    {
+      "upazila_name": "Kamarkhanda, Sirajganj",
+      "upazila_id": "T205"
+    },
+    {
+      "upazila_name": "Kanaighat, Sylhet",
+      "upazila_id": "T377"
+    },
+    {
+      "upazila_name": "Kanthalia, Jhalokati",
+      "upazila_id": "T049"
+    },
+    {
+      "upazila_name": "Kapasia, Gazipur",
+      "upazila_id": "T011"
+    },
+    {
+      "upazila_name": "Kaptai, Rangamati",
+      "upazila_id": "T353"
+    },
+    {
+      "upazila_name": "Karimganj, Kishoregonj",
+      "upazila_id": "T109"
+    },
+    {
+      "upazila_name": "Kasba, Brahmanbaria",
+      "upazila_id": "T324"
+    },
+    {
+      "upazila_name": "Kashiani, Gopalganj",
+      "upazila_id": "T068"
+    },
+    {
+      "upazila_name": "Katiadi, Kishoregonj",
+      "upazila_id": "T110"
+    },
+    {
+      "upazila_name": "Kaunia, Rangpur",
+      "upazila_id": "T246"
+    },
+    {
+      "upazila_name": "Kawkhali (betbunia), Rangamati",
+      "upazila_id": "T359"
+    },
+    {
+      "upazila_name": "Kawkhali, Pirojpur",
+      "upazila_id": "T463"
+    },
+    {
+      "upazila_name": "Kazipur, Sirajganj",
+      "upazila_id": "T206"
+    },
+    {
+      "upazila_name": "Kendua, Netrakona",
+      "upazila_id": "T122"
+    },
+    {
+      "upazila_name": "Keraniganj, Dhaka",
+      "upazila_id": "T003"
+    },
+    {
+      "upazila_name": "Keshabpur, Jashore",
+      "upazila_id": "T434"
+    },
+    {
+      "upazila_name": "Khagrachhari Sadar, Khagrachhari",
+      "upazila_id": "T361"
+    },
+    {
+      "upazila_name": "Khaliajuri, Netrakona",
+      "upazila_id": "T120"
+    },
+    {
+      "upazila_name": "Khansama, Dinajpur",
+      "upazila_id": "T181"
+    },
+    {
+      "upazila_name": "Khetlal, Joypurhat",
+      "upazila_id": "T169"
+    },
+    {
+      "upazila_name": "Khoksa, Kushtia",
+      "upazila_id": "T452"
+    },
+    {
+      "upazila_name": "Khulna Sadar, Khulna",
+      "upazila_id": "T408"
+    },
+    {
+      "upazila_name": "Kishoreganj Sadar, Kishoreganj",
+      "upazila_id": "T111"
+    },
+    {
+      "upazila_name": "Kishoreganj, Nilphamari",
+      "upazila_id": "T276"
+    },
+    {
+      "upazila_name": "Kotalipara, Gopalganj",
+      "upazila_id": "T069"
+    },
+    {
+      "upazila_name": "Kotchandpur, Jhenaidah",
+      "upazila_id": "T440"
+    },
+    {
+      "upazila_name": "Koyra, Khulna",
+      "upazila_id": "T409"
+    },
+    {
+      "upazila_name": "Kulaura, Maulvibazar",
+      "upazila_id": "T389"
+    },
+    {
+      "upazila_name": "Kuliar Char, Kishoregonj",
+      "upazila_id": "T112"
+    },
+    {
+      "upazila_name": "Kumarkhali, Kushtia",
+      "upazila_id": "T454"
+    },
+    {
+      "upazila_name": "Kurigram Sadar, Kurigram",
+      "upazila_id": "T263"
+    },
+    {
+      "upazila_name": "Kushtia Sadar, Kushtia",
+      "upazila_id": "T453"
+    },
+    {
+      "upazila_name": "Kutubdia, Cox's Bazar",
+      "upazila_id": "T297"
+    },
+    {
+      "upazila_name": "Lakhai, Habiganj",
+      "upazila_id": "T384"
+    },
+    {
+      "upazila_name": "Laksam, Cumilla",
+      "upazila_id": "T318"
+    },
+    {
+      "upazila_name": "Lakshmichhari, Khagrachhari",
+      "upazila_id": "T367"
+    },
+    {
+      "upazila_name": "Lakshmipur Sadar, Lakshmipur",
+      "upazila_id": "T346"
+    },
+    {
+      "upazila_name": "Lalmai, Cumilla",
+      "upazila_id": "T490"
+    },
+    {
+      "upazila_name": "Lalmohan, Bhola",
+      "upazila_id": "T056"
+    },
+    {
+      "upazila_name": "Lalmonirhat Sadar, Lalmonirhat",
+      "upazila_id": "T271"
+    },
+    {
+      "upazila_name": "Lalpur, Natore",
+      "upazila_id": "T241"
+    },
+    {
+      "upazila_name": "Lama, Bandarban",
+      "upazila_id": "T304"
+    },
+    {
+      "upazila_name": "Langadu, Rangamati",
+      "upazila_id": "T355"
+    },
+    {
+      "upazila_name": "Lohagara, Chattogram",
+      "upazila_id": "T286"
+    },
+    {
+      "upazila_name": "Lohagara, Narail",
+      "upazila_id": "T448"
+    },
+    {
+      "upazila_name": "Lohajang, Munshiganj",
+      "upazila_id": "T022"
+    },
+    {
+      "upazila_name": "Madan, Netrakona",
+      "upazila_id": "T123"
+    },
+    {
+      "upazila_name": "Madarganj, Jamalpur",
+      "upazila_id": "T084"
+    },
+    {
+      "upazila_name": "Madaripur Sadar, Madaripur",
+      "upazila_id": "T073"
+    },
+    {
+      "upazila_name": "Madhabpur, Habiganj",
+      "upazila_id": "T385"
+    },
+    {
+      "upazila_name": "Madhukhali, Faridpur",
+      "upazila_id": "T064"
+    },
+    {
+      "upazila_name": "Madhupur, Tangail",
+      "upazila_id": "T150"
+    },
+    {
+      "upazila_name": "Magura Sadar, Magura",
+      "upazila_id": "T443"
+    },
+    {
+      "upazila_name": "Mahadebpur, Naogaon",
+      "upazila_id": "T231"
+    },
+    {
+      "upazila_name": "Mahalchhari, Khagrachhari",
+      "upazila_id": "T362"
+    },
+    {
+      "upazila_name": "Maheshkhali, Cox's Bazar",
+      "upazila_id": "T298"
+    },
+    {
+      "upazila_name": "Maheshpur, Jhenaidah",
+      "upazila_id": "T441"
+    },
+    {
+      "upazila_name": "Manda, Naogaon",
+      "upazila_id": "T230"
+    },
+    {
+      "upazila_name": "Manikchhari, Khagrachhari",
+      "upazila_id": "T363"
+    },
+    {
+      "upazila_name": "Manikganj Sadar, Manikganj",
+      "upazila_id": "T017"
+    },
+    {
+      "upazila_name": "Manirampur, Jashore",
+      "upazila_id": "T435"
+    },
+    {
+      "upazila_name": "Manohardi, Narsingdi",
+      "upazila_id": "T033"
+    },
+    {
+      "upazila_name": "Manoharganj, Cumilla",
+      "upazila_id": "T475"
+    },
+    {
+      "upazila_name": "Manpura, Bhola",
+      "upazila_id": "T057"
+    },
+    {
+      "upazila_name": "Mathbaria, Pirojpur",
+      "upazila_id": "T464"
+    },
+    {
+      "upazila_name": "Matiranga, Khagrachhari",
+      "upazila_id": "T364"
+    },
+    {
+      "upazila_name": "Matlab Dakshin, Chandpur",
+      "upazila_id": "T333"
+    },
+    {
+      "upazila_name": "Matlab Uttar, Chandpur",
+      "upazila_id": "T468"
+    },
+    {
+      "upazila_name": "Maulvibazar Sadar, Maulvibazar",
+      "upazila_id": "T390"
+    },
+    {
+      "upazila_name": "Meghna, Cumilla",
+      "upazila_id": "T472"
+    },
+    {
+      "upazila_name": "Mehendiganj, Barishal",
+      "upazila_id": "T044"
+    },
+    {
+      "upazila_name": "Meherpur Sadar, Meherpur",
+      "upazila_id": "T461"
+    },
+    {
+      "upazila_name": "Melandaha, Jamalpur",
+      "upazila_id": "T085"
+    },
+    {
+      "upazila_name": "Mirpur, Dhaka",
+      "upazila_id": "T004"
+    },
+    {
+      "upazila_name": "Mirpur, Kushtia",
+      "upazila_id": "T455"
+    },
+    {
+      "upazila_name": "Mirsharai, Chattogram",
+      "upazila_id": "T287"
+    },
+    {
+      "upazila_name": "Mirzaganj, Patuakhali",
+      "upazila_id": "T131"
+    },
+    {
+      "upazila_name": "Mirzapur, Tangail",
+      "upazila_id": "T151"
+    },
+    {
+      "upazila_name": "Mitha Pukur, Rangpur",
+      "upazila_id": "T247"
+    },
+    {
+      "upazila_name": "Mithamain, Kishoreganj",
+      "upazila_id": "T113"
+    },
+    {
+      "upazila_name": "Mohammadpur, Magura",
+      "upazila_id": "T444"
+    },
+    {
+      "upazila_name": "Mohanganj, Netrakona",
+      "upazila_id": "T124"
+    },
+    {
+      "upazila_name": "Mohanpur, Rajshahi",
+      "upazila_id": "T218"
+    },
+    {
+      "upazila_name": "Mollahat, Bagerhat",
+      "upazila_id": "T418"
+    },
+    {
+      "upazila_name": "Mongla, Bagerhat",
+      "upazila_id": "T417"
+    },
+    {
+      "upazila_name": "Morrelganj, Bagerhat",
+      "upazila_id": "T419"
+    },
+    {
+      "upazila_name": "Mujib Nagar, Meherpur",
+      "upazila_id": "T480"
+    },
+    {
+      "upazila_name": "Muksudpur, Gopalganj",
+      "upazila_id": "T070"
+    },
+    {
+      "upazila_name": "Muktagachha, Mymensingh",
+      "upazila_id": "T097"
+    },
+    {
+      "upazila_name": "Muladi, Barishal",
+      "upazila_id": "T045"
+    },
+    {
+      "upazila_name": "Munshiganj Sadar, Munshiganj",
+      "upazila_id": "T023"
+    },
+    {
+      "upazila_name": "Muradnagar, Cumilla",
+      "upazila_id": "T319"
+    },
+    {
+      "upazila_name": "Mymensingh Sadar, Mymensingh",
+      "upazila_id": "T098"
+    },
+    {
+      "upazila_name": "Nabiganj, Habiganj",
+      "upazila_id": "T386"
+    },
+    {
+      "upazila_name": "Nabinagar, Brahmanbaria",
+      "upazila_id": "T325"
+    },
+    {
+      "upazila_name": "Nachole, Chapai Nababganj",
+      "upazila_id": "T225"
+    },
+    {
+      "upazila_name": "Nagarkanda, Faridpur",
+      "upazila_id": "T065"
+    },
+    {
+      "upazila_name": "Nagarpur, Tangail",
+      "upazila_id": "T152"
+    },
+    {
+      "upazila_name": "Nageshwari, Kurigram",
+      "upazila_id": "T264"
+    },
+    {
+      "upazila_name": "Naikhongchhari, Bandarban",
+      "upazila_id": "T305"
+    },
+    {
+      "upazila_name": "Nakla, Sherpur",
+      "upazila_id": "T088"
+    },
+    {
+      "upazila_name": "Nalchity, Jhalokati",
+      "upazila_id": "T050"
+    },
+    {
+      "upazila_name": "Nalitabari, Sherpur",
+      "upazila_id": "T089"
+    },
+    {
+      "upazila_name": "Nandail, Mymensingh",
+      "upazila_id": "T099"
+    },
+    {
+      "upazila_name": "Nandigram, Bogura",
+      "upazila_id": "T161"
+    },
+    {
+      "upazila_name": "Nangalkot, Cumilla",
+      "upazila_id": "T320"
+    },
+    {
+      "upazila_name": "Naniarchar, Rangamati",
+      "upazila_id": "T356"
+    },
+    {
+      "upazila_name": "Naogaon Sadar, Naogaon",
+      "upazila_id": "T232"
+    },
+    {
+      "upazila_name": "Narail Sadar, Narail",
+      "upazila_id": "T449"
+    },
+    {
+      "upazila_name": "Narayanganj Sadar, Narayanganj",
+      "upazila_id": "T029"
+    },
+    {
+      "upazila_name": "Naria, Shariatpur",
+      "upazila_id": "T142"
+    },
+    {
+      "upazila_name": "Narsingdi Sadar, Narsingdi",
+      "upazila_id": "T034"
+    },
+    {
+      "upazila_name": "Nasirnagar, Brahmanbaria",
+      "upazila_id": "T326"
+    },
+    {
+      "upazila_name": "Natore Sadar, Natore",
+      "upazila_id": "T242"
+    },
+    {
+      "upazila_name": "Nawabganj, Dhaka",
+      "upazila_id": "T005"
+    },
+    {
+      "upazila_name": "Nawabganj, Dinajpur",
+      "upazila_id": "T182"
+    },
+    {
+      "upazila_name": "Nazirpur, Pirojpur",
+      "upazila_id": "T465"
+    },
+    {
+      "upazila_name": "Nesarabad (swarupkati), Pirojpur",
+      "upazila_id": "T467"
+    },
+    {
+      "upazila_name": "Netrakona Sadar, Netrokona",
+      "upazila_id": "T125"
+    },
+    {
+      "upazila_name": "Niamatpur, Naogaon",
+      "upazila_id": "T233"
+    },
+    {
+      "upazila_name": "Nikli, Kishoreganj",
+      "upazila_id": "T114"
+    },
+    {
+      "upazila_name": "Nilphamari Sadar, Nilphamari",
+      "upazila_id": "T277"
+    },
+    {
+      "upazila_name": "Noakhali Sadar, Noakhali",
+      "upazila_id": "T340"
+    },
+    {
+      "upazila_name": "Osmaninagar, Sylhet",
+      "upazila_id": "T492"
+    },
+    {
+      "upazila_name": "Paba, Rajshahi",
+      "upazila_id": "T219"
+    },
+    {
+      "upazila_name": "Pabna Sadar, Pabna",
+      "upazila_id": "T200"
+    },
+    {
+      "upazila_name": "Paikgachha, Khulna",
+      "upazila_id": "T410"
+    },
+    {
+      "upazila_name": "Pakundia, Kishoreganj",
+      "upazila_id": "T115"
+    },
+    {
+      "upazila_name": "Palash, Narsingdi",
+      "upazila_id": "T035"
+    },
+    {
+      "upazila_name": "Palashbari, Gaibandha",
+      "upazila_id": "T255"
+    },
+    {
+      "upazila_name": "Panchagarh Sadar, Panchagarh",
+      "upazila_id": "T187"
+    },
+    {
+      "upazila_name": "Panchbibi, Joypurhat",
+      "upazila_id": "T170"
+    },
+    {
+      "upazila_name": "Panchhari, Khagrachhari",
+      "upazila_id": "T365"
+    },
+    {
+      "upazila_name": "Panchlaish, Chattogram",
+      "upazila_id": "T288"
+    },
+    {
+      "upazila_name": "Pangsha, Rajbari",
+      "upazila_id": "T078"
+    },
+    {
+      "upazila_name": "Parbatipur, Dinajpur",
+      "upazila_id": "T183"
+    },
+    {
+      "upazila_name": "Parshuram, Feni",
+      "upazila_id": "T344"
+    },
+    {
+      "upazila_name": "Patgram, Lalmonirhat",
+      "upazila_id": "T272"
+    },
+    {
+      "upazila_name": "Patharghata, Barguna",
+      "upazila_id": "T137"
+    },
+    {
+      "upazila_name": "Patiya, Chattogram",
+      "upazila_id": "T289"
+    },
+    {
+      "upazila_name": "Patnitala, Naogaon",
+      "upazila_id": "T234"
+    },
+    {
+      "upazila_name": "Patuakhali Sadar, Patuakhali",
+      "upazila_id": "T132"
+    },
+    {
+      "upazila_name": "Pekua, Cox's Bazar",
+      "upazila_id": "T481"
+    },
+    {
+      "upazila_name": "Phulbari, Kurigram",
+      "upazila_id": "T262"
+    },
+    {
+      "upazila_name": "Phulpur, Mymensingh",
+      "upazila_id": "T101"
+    },
+    {
+      "upazila_name": "Phultala, Khulna",
+      "upazila_id": "T407"
+    },
+    {
+      "upazila_name": "Pirgachha, Rangpur",
+      "upazila_id": "T249"
+    },
+    {
+      "upazila_name": "Pirganj, Rangpur",
+      "upazila_id": "T248"
+    },
+    {
+      "upazila_name": "Pirganj, Thakurgaon",
+      "upazila_id": "T191"
+    },
+    {
+      "upazila_name": "Pirojpur Sadar, Pirojpur",
+      "upazila_id": "T466"
+    },
+    {
+      "upazila_name": "Porsha, Naogaon",
+      "upazila_id": "T235"
+    },
+    {
+      "upazila_name": "Purbadhala, Netrakona",
+      "upazila_id": "T126"
+    },
+    {
+      "upazila_name": "Puthia, Rajshahi",
+      "upazila_id": "T220"
+    },
+    {
+      "upazila_name": "Rajapur, Jhalokati",
+      "upazila_id": "T051"
+    },
+    {
+      "upazila_name": "Rajarhat, Kurigram",
+      "upazila_id": "T265"
+    },
+    {
+      "upazila_name": "Rajasthali, Rangamati",
+      "upazila_id": "T358"
+    },
+    {
+      "upazila_name": "Rajbari Sadar, Rajbari",
+      "upazila_id": "T079"
+    },
+    {
+      "upazila_name": "Rajnagar, Maulvibazar",
+      "upazila_id": "T391"
+    },
+    {
+      "upazila_name": "Rajoir, Madaripur",
+      "upazila_id": "T074"
+    },
+    {
+      "upazila_name": "Ramganj, Lakshmipur",
+      "upazila_id": "T348"
+    },
+    {
+      "upazila_name": "Ramgarh, Khagrachhari",
+      "upazila_id": "T366"
+    },
+    {
+      "upazila_name": "Ramgati, Lakshmipur",
+      "upazila_id": "T349"
+    },
+    {
+      "upazila_name": "Rampal, Bagerhat",
+      "upazila_id": "T420"
+    },
+    {
+      "upazila_name": "Ramu, Cox's Bazar",
+      "upazila_id": "T299"
+    },
+    {
+      "upazila_name": "Rangamati Sadar, Rangamati",
+      "upazila_id": "T357"
+    },
+    {
+      "upazila_name": "Rangpur Sadar, Rangpur",
+      "upazila_id": "T250"
+    },
+    {
+      "upazila_name": "Rangunia, Chattogram",
+      "upazila_id": "T290"
+    },
+    {
+      "upazila_name": "Raninagar, Naogaon",
+      "upazila_id": "T236"
+    },
+    {
+      "upazila_name": "Ranisankail, Thakurgaon",
+      "upazila_id": "T192"
+    },
+    {
+      "upazila_name": "Raozan, Chattogram",
+      "upazila_id": "T291"
+    },
+    {
+      "upazila_name": "Raumari, Kurigram",
+      "upazila_id": "T266"
+    },
+    {
+      "upazila_name": "Rowangchhari, Bandarban",
+      "upazila_id": "T306"
+    },
+    {
+      "upazila_name": "Royganj, Sirajganj",
+      "upazila_id": "T207"
+    },
+    {
+      "upazila_name": "Roypur, Lakshmipur",
+      "upazila_id": "T347"
+    },
+    {
+      "upazila_name": "Roypura, Narsingdi",
+      "upazila_id": "T036"
+    },
+    {
+      "upazila_name": "Ruma, Bandarban",
+      "upazila_id": "T307"
+    },
+    {
+      "upazila_name": "Rupganj, Narayanganj",
+      "upazila_id": "T031"
+    },
+    {
+      "upazila_name": "Rupsa, Khulna",
+      "upazila_id": "T411"
+    },
+    {
+      "upazila_name": "Sadarpur, Faridpur",
+      "upazila_id": "T066"
+    },
+    {
+      "upazila_name": "Sadullapur, Gaibandha",
+      "upazila_id": "T256"
+    },
+    {
+      "upazila_name": "Saghata, Gaibandha",
+      "upazila_id": "T257"
+    },
+    {
+      "upazila_name": "Saidpur, Nilphamari",
+      "upazila_id": "T278"
+    },
+    {
+      "upazila_name": "Sakhipur, Tangail",
+      "upazila_id": "T153"
+    },
+    {
+      "upazila_name": "Saltha, Faridpur",
+      "upazila_id": "T487"
+    },
+    {
+      "upazila_name": "Sandwip, Chattogram",
+      "upazila_id": "T292"
+    },
+    {
+      "upazila_name": "Santhia, Pabna",
+      "upazila_id": "T201"
+    },
+    {
+      "upazila_name": "Sapahar, Naogaon",
+      "upazila_id": "T237"
+    },
+    {
+      "upazila_name": "Sarail, Brahmanbaria",
+      "upazila_id": "T327"
+    },
+    {
+      "upazila_name": "Sarankhola, Bagerhat",
+      "upazila_id": "T421"
+    },
+    {
+      "upazila_name": "Sariakandi, Bogura",
+      "upazila_id": "T162"
+    },
+    {
+      "upazila_name": "Sarishabari, Jamalpur",
+      "upazila_id": "T086"
+    },
+    {
+      "upazila_name": "Satkania, Chattogram",
+      "upazila_id": "T293"
+    },
+    {
+      "upazila_name": "Satkhira Sadar, Satkhira",
+      "upazila_id": "T426"
+    },
+    {
+      "upazila_name": "Saturia, Manikganj",
+      "upazila_id": "T018"
+    },
+    {
+      "upazila_name": "Savar, Dhaka",
+      "upazila_id": "T006"
+    },
+    {
+      "upazila_name": "Senbagh, Noakhali",
+      "upazila_id": "T339"
+    },
+    {
+      "upazila_name": "Serajdikhan, Munshiganj",
+      "upazila_id": "T024"
+    },
+    {
+      "upazila_name": "Shahjadpur, Sirajganj",
+      "upazila_id": "T208"
+    },
+    {
+      "upazila_name": "Shahrasti, Chandpur",
+      "upazila_id": "T334"
+    },
+    {
+      "upazila_name": "Shailkupa, Jhenaidah",
+      "upazila_id": "T442"
+    },
+    {
+      "upazila_name": "Shajahanpur, Bogura",
+      "upazila_id": "T478"
+    },
+    {
+      "upazila_name": "Shalikha, Magura",
+      "upazila_id": "T445"
+    },
+    {
+      "upazila_name": "Shariatpur Sadar, Shariatpur",
+      "upazila_id": "T143"
+    },
+    {
+      "upazila_name": "Sharsha, Jashore",
+      "upazila_id": "T436"
+    },
+    {
+      "upazila_name": "Sherpur Sadar, Sherpur",
+      "upazila_id": "T090"
+    },
+    {
+      "upazila_name": "Sherpur, Bogura",
+      "upazila_id": "T163"
+    },
+    {
+      "upazila_name": "Shib Char, Madaripur",
+      "upazila_id": "T075"
+    },
+    {
+      "upazila_name": "Shibalaya, Manikganj",
+      "upazila_id": "T019"
+    },
+    {
+      "upazila_name": "Shibganj, Bogura",
+      "upazila_id": "T164"
+    },
+    {
+      "upazila_name": "Shibganj, Chapai Nababganj",
+      "upazila_id": "T226"
+    },
+    {
+      "upazila_name": "Shibpur, Narsingdi",
+      "upazila_id": "T037"
+    },
+    {
+      "upazila_name": "Shyamnagar, Satkhira",
+      "upazila_id": "T427"
+    },
+    {
+      "upazila_name": "Singair, Manikganj",
+      "upazila_id": "T020"
+    },
+    {
+      "upazila_name": "Singra, Natore",
+      "upazila_id": "T243"
+    },
+    {
+      "upazila_name": "Sirajganj Sadar, Sirajganj",
+      "upazila_id": "T209"
+    },
+    {
+      "upazila_name": "Sitakunda, Chattogram",
+      "upazila_id": "T294"
+    },
+    {
+      "upazila_name": "Sonagazi, Feni",
+      "upazila_id": "T345"
+    },
+    {
+      "upazila_name": "Sonaimuri, Noakhali",
+      "upazila_id": "T479"
+    },
+    {
+      "upazila_name": "Sonargaon, Narayanganj",
+      "upazila_id": "T030"
+    },
+    {
+      "upazila_name": "Sonatola, Bogura",
+      "upazila_id": "T165"
+    },
+    {
+      "upazila_name": "Sreebardi, Sherpur",
+      "upazila_id": "T091"
+    },
+    {
+      "upazila_name": "Sreemangal, Maulvibazar",
+      "upazila_id": "T392"
+    },
+    {
+      "upazila_name": "Sreenagar, Munshiganj",
+      "upazila_id": "T025"
+    },
+    {
+      "upazila_name": "Sreepur, Gazipur",
+      "upazila_id": "T012"
+    },
+    {
+      "upazila_name": "Sreepur, Magura",
+      "upazila_id": "T446"
+    },
+    {
+      "upazila_name": "Subarnachar, Noakhali",
+      "upazila_id": "T482"
+    },
+    {
+      "upazila_name": "Sujanagar, Pabna",
+      "upazila_id": "T202"
+    },
+    {
+      "upazila_name": "Sulla, Sunamganj",
+      "upazila_id": "T400"
+    },
+    {
+      "upazila_name": "Sunamganj Sadar, Sunamganj",
+      "upazila_id": "T401"
+    },
+    {
+      "upazila_name": "Sundarganj, Gaibandha",
+      "upazila_id": "T258"
+    },
+    {
+      "upazila_name": "Sylhet Sadar, Sylhet",
+      "upazila_id": "T378"
+    },
+    {
+      "upazila_name": "Tahirpur, Sunamganj",
+      "upazila_id": "T402"
+    },
+    {
+      "upazila_name": "Tala, Satkhira",
+      "upazila_id": "T428"
+    },
+    {
+      "upazila_name": "Tangail Sadar, Tangail",
+      "upazila_id": "T154"
+    },
+    {
+      "upazila_name": "Tanore, Rajshahi",
+      "upazila_id": "T221"
+    },
+    {
+      "upazila_name": "Taraganj, Rangpur",
+      "upazila_id": "T251"
+    },
+    {
+      "upazila_name": "Tarail, Kishoreganj",
+      "upazila_id": "T116"
+    },
+    {
+      "upazila_name": "Tarash, Sirajganj",
+      "upazila_id": "T210"
+    },
+    {
+      "upazila_name": "Tazumuddin, Bhola",
+      "upazila_id": "T058"
+    },
+    {
+      "upazila_name": "Tejgaon, Dhaka",
+      "upazila_id": "T007"
+    },
+    {
+      "upazila_name": "Teknaf, Cox's Bazar",
+      "upazila_id": "T300"
+    },
+    {
+      "upazila_name": "Tentulia, Panchagarh",
+      "upazila_id": "T188"
+    },
+    {
+      "upazila_name": "Terokhada, Khulna",
+      "upazila_id": "T412"
+    },
+    {
+      "upazila_name": "Thakurgaon Sadar, Thakurgaon",
+      "upazila_id": "T193"
+    },
+    {
+      "upazila_name": "Thanchi, Bandarban",
+      "upazila_id": "T308"
+    },
+    {
+      "upazila_name": "Titas, Cumilla",
+      "upazila_id": "T473"
+    },
+    {
+      "upazila_name": "Tongi, Gazipur",
+      "upazila_id": "T013"
+    },
+    {
+      "upazila_name": "Tongibari, Munshiganj",
+      "upazila_id": "T026"
+    },
+    {
+      "upazila_name": "Trishal, Mymensingh",
+      "upazila_id": "T102"
+    },
+    {
+      "upazila_name": "Tungipara, Gopalganj",
+      "upazila_id": "T071"
+    },
+    {
+      "upazila_name": "Ukhia, Cox's Bazar",
+      "upazila_id": "T301"
+    },
+    {
+      "upazila_name": "Ulipur, Kurigram",
+      "upazila_id": "T267"
+    },
+    {
+      "upazila_name": "Ullah Para, Sirajganj",
+      "upazila_id": "T211"
+    },
+    {
+      "upazila_name": "Wazirpur, Barishal",
+      "upazila_id": "T046"
+    },
+    {
+      "upazila_name": "Zakiganj, Sylhet",
+      "upazila_id": "T376"
+    },
+    {
+      "upazila_name": "Zanjira, Shariatpur",
+      "upazila_id": "T141"
+    }
+  ],
+  "total_upazilas": 494
+}

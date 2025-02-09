@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T134",
+    "item_code": "CON008+CON010",
+    "scraped_at": "2025-02-08T19:11:18.037520"
+  },
+  "data": [
+    {
+      "facility": "1/Ka, SANKARI RANI DAS, FWA, 01. Bukabunia",
+      "opening_balance": 401.0,
+      "received": 120.0,
+      "total": 521.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 521.0,
+      "distribution": 262.0,
+      "closing_balance": 259.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/Kha, SANKARI RANI DAS, FWA, 01. Bukabunia (In-Charge)",
+      "opening_balance": 350.0,
+      "received": 120.0,
+      "total": 470.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 470.0,
+      "distribution": 164.0,
+      "closing_balance": 306.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Ka, IRANI BEGUM, FWA, 01. Bukabunia (In-Charge)",
+      "opening_balance": 301.0,
+      "received": 120.0,
+      "total": 421.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 421.0,
+      "distribution": 170.0,
+      "closing_balance": 251.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Kha, IRANI BEGUM, FWA, 01. Bukabunia",
+      "opening_balance": 190.0,
+      "received": 180.0,
+      "total": 370.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 370.0,
+      "distribution": 106.0,
+      "closing_balance": 264.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Ka, SONIA AKTER RUPA, FWA, 01. Bukabunia",
+      "opening_balance": 505.0,
+      "received": 300.0,
+      "total": 805.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 805.0,
+      "distribution": 232.0,
+      "closing_balance": 573.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Kha, AFROZA KHANAM, FWA, 01. Bukabunia",
+      "opening_balance": 745.0,
+      "received": 0.0,
+      "total": 745.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 745.0,
+      "distribution": 160.0,
+      "closing_balance": 585.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

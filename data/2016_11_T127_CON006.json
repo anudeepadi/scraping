@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T127",
+    "item_code": "CON006",
+    "scraped_at": "2025-02-08T19:13:59.686184"
+  },
+  "data": [
+    {
+      "facility": "1/Ka, RINA KHAN, FWA, 01. Kachipara",
+      "opening_balance": 39.0,
+      "received": 0.0,
+      "total": 39.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 39.0,
+      "distribution": 12.0,
+      "closing_balance": 27.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/ Kha, Amena Begum,FWA, Kachipara",
+      "opening_balance": 117.0,
+      "received": 0.0,
+      "total": 117.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 117.0,
+      "distribution": 10.0,
+      "closing_balance": 107.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Kha, MOSA.ASMA AKTAR, FWA, 01. Kachipara",
+      "opening_balance": 23.0,
+      "received": 0.0,
+      "total": 23.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 23.0,
+      "distribution": 15.0,
+      "closing_balance": 8.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/ Ka, Amana, Fwa, Kachipara (incharge)",
+      "opening_balance": 43.0,
+      "received": 0.0,
+      "total": 43.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 43.0,
+      "distribution": 8.0,
+      "closing_balance": 35.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Ka, MOSA.NILUFA BEGUM, FWA, 01. Kachipara",
+      "opening_balance": 74.0,
+      "received": 0.0,
+      "total": 74.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 74.0,
+      "distribution": 15.0,
+      "closing_balance": 59.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

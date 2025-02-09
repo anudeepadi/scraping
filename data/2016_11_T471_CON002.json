@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T471",
+    "item_code": "CON002",
+    "scraped_at": "2025-02-08T19:07:30.002376"
+  },
+  "data": [
+    {
+      "facility": "1/ Ka, Roushonara Begum, FWA, Ashugonj",
+      "opening_balance": 1195.0,
+      "received": 500.0,
+      "total": 1695.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1695.0,
+      "distribution": 676.0,
+      "closing_balance": 1019.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2, DILARA BEGUM, FWA, 01. Ashugonj Sadar",
+      "opening_balance": 1242.0,
+      "received": 700.0,
+      "total": 1942.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1942.0,
+      "distribution": 624.0,
+      "closing_balance": 1318.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/ kha, Roushonara Begum, FWA(Incharge), Ashugonj Sadar",
+      "opening_balance": 1172.0,
+      "received": 700.0,
+      "total": 1872.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1872.0,
+      "distribution": 600.0,
+      "closing_balance": 1272.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3, DILSHAD ISLAM, FWA, 01. Ashugonj Sadar",
+      "opening_balance": 1242.0,
+      "received": 600.0,
+      "total": 1842.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1842.0,
+      "distribution": 624.0,
+      "closing_balance": 1218.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/Ga, UMME KULSUM, FWA, 01. Ashugonj Sadar",
+      "opening_balance": 1092.0,
+      "received": 500.0,
+      "total": 1592.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1592.0,
+      "distribution": 586.0,
+      "closing_balance": 1006.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

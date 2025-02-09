@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T471",
+    "item_code": "CON001",
+    "scraped_at": "2025-02-08T19:07:31.644517"
+  },
+  "data": [
+    {
+      "facility": "1/ Ka, Roushonara Begum, FWA, Ashugonj",
+      "opening_balance": 53.0,
+      "received": 50.0,
+      "total": 103.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 103.0,
+      "distribution": 24.0,
+      "closing_balance": 79.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2, DILARA BEGUM, FWA, 01. Ashugonj Sadar",
+      "opening_balance": 33.0,
+      "received": 50.0,
+      "total": 83.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 83.0,
+      "distribution": 10.0,
+      "closing_balance": 73.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3, DILSHAD ISLAM, FWA, 01. Ashugonj Sadar",
+      "opening_balance": 72.0,
+      "received": 0.0,
+      "total": 72.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 72.0,
+      "distribution": 20.0,
+      "closing_balance": 52.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/ kha, Roushonara Begum, FWA(Incharge), Ashugonj Sadar",
+      "opening_balance": 64.0,
+      "received": 50.0,
+      "total": 114.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 114.0,
+      "distribution": 20.0,
+      "closing_balance": 94.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/Ga, UMME KULSUM, FWA, 01. Ashugonj Sadar",
+      "opening_balance": 121.0,
+      "received": 50.0,
+      "total": 171.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 171.0,
+      "distribution": 55.0,
+      "closing_balance": 116.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

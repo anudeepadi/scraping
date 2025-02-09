@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T043",
+    "item_code": "CON008+CON010",
+    "scraped_at": "2025-02-08T19:12:57.887411"
+  },
+  "data": [
+    {
+      "facility": "1/Ka, HASINA PARVEEN, FWA, 01. Raypasha Karapur",
+      "opening_balance": 14.0,
+      "received": 585.0,
+      "total": 599.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 599.0,
+      "distribution": 199.0,
+      "closing_balance": 400.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/Kha, HASINA PARVEEN, FWA, 01. Raypasha Karapur",
+      "opening_balance": 60.0,
+      "received": 285.0,
+      "total": 345.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 345.0,
+      "distribution": 145.0,
+      "closing_balance": 200.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Ka, SHAMSUN NAHAR, FWA, 01. Raypasha Karapur",
+      "opening_balance": 519.0,
+      "received": 375.0,
+      "total": 894.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 894.0,
+      "distribution": 211.0,
+      "closing_balance": 683.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Kha, MAFIZA JHARNA, FWA, 01. Raypasha Karapur",
+      "opening_balance": 275.0,
+      "received": 135.0,
+      "total": 410.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 410.0,
+      "distribution": 150.0,
+      "closing_balance": 260.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Ka, SHAJEDA BEGUM, FWA, 01. Raypasha Karapur",
+      "opening_balance": 154.0,
+      "received": 0.0,
+      "total": 154.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 154.0,
+      "distribution": 140.0,
+      "closing_balance": 14.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Kha, JESMIN AKTER, FWA, 01. Raypasha Karapur",
+      "opening_balance": 549.0,
+      "received": 0.0,
+      "total": 549.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 549.0,
+      "distribution": 251.0,
+      "closing_balance": 298.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

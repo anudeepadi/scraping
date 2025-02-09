@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T080",
+    "item_code": "CON002",
+    "scraped_at": "2025-02-08T19:10:39.598665"
+  },
+  "data": [
+    {
+      "facility": "1 No. Ward,kaniz Fatema,FWA(incharge).Danuah.",
+      "opening_balance": 172.0,
+      "received": 100.0,
+      "total": 272.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 272.0,
+      "distribution": 100.0,
+      "closing_balance": 172.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Kha, MINARA AKTER, FWA, 01. Dhanua (In-Charge)",
+      "opening_balance": 727.0,
+      "received": 0.0,
+      "total": 727.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 727.0,
+      "distribution": 210.0,
+      "closing_balance": 517.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Ka, MINARA AKTER, FWA, 01. Dhanua",
+      "opening_balance": 1121.0,
+      "received": 300.0,
+      "total": 1421.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1421.0,
+      "distribution": 360.0,
+      "closing_balance": 1061.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/Kha, KANIZ FATEMA, FWA, 01. Dhanua",
+      "opening_balance": 1292.0,
+      "received": 300.0,
+      "total": 1592.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 1592.0,
+      "distribution": 720.0,
+      "closing_balance": 872.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

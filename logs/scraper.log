@@ -1,0 +1,163 @@
+2025-02-08 19:01:09,725 - INFO - Total tasks: 586872, Remaining tasks: 586872
+2025-02-08 19:01:17,597 - ERROR - Error fetching data for task ScrapingTask(year='2016', month='11', upazila_id='T429', item_code='CON008', retry_count=0): 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://elmis.dgfp.gov.bd/dgfplmis_reports/sdpdataviewer/form2_view_datasource.php')
+2025-02-08 19:01:17,597 - ERROR - Error processing task ScrapingTask(year='2016', month='11', upazila_id='T429', item_code='CON008', retry_count=0): 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://elmis.dgfp.gov.bd/dgfplmis_reports/sdpdataviewer/form2_view_datasource.php')
+2025-02-08 19:01:22,807 - ERROR - Error fetching data for task ScrapingTask(year='2016', month='11', upazila_id='T429', item_code='CON010', retry_count=0): 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://elmis.dgfp.gov.bd/dgfplmis_reports/sdpdataviewer/form2_view_datasource.php')
+2025-02-08 19:01:22,809 - ERROR - Error processing task ScrapingTask(year='2016', month='11', upazila_id='T429', item_code='CON010', retry_count=0): 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://elmis.dgfp.gov.bd/dgfplmis_reports/sdpdataviewer/form2_view_datasource.php')
+2025-02-08 19:01:29,056 - ERROR - Error fetching data for task ScrapingTask(year='2016', month='11', upazila_id='T429', item_code='CON008+CON010', retry_count=0): 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://elmis.dgfp.gov.bd/dgfplmis_reports/sdpdataviewer/form2_view_datasource.php')
+2025-02-08 19:01:29,057 - ERROR - Error processing task ScrapingTask(year='2016', month='11', upazila_id='T429', item_code='CON008+CON010', retry_count=0): 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://elmis.dgfp.gov.bd/dgfplmis_reports/sdpdataviewer/form2_view_datasource.php')
+2025-02-08 19:03:08,449 - INFO - Total tasks: 586872, Remaining tasks: 586872
+2025-02-08 19:03:09,809 - ERROR - Unexpected response type: text/html; charset=UTF-8, content: 
+
+{ "sEcho": 2, "iTotalRecords":6, "iTotalDisplayRecords": 6, "aaData":[[ "1", "1/Kha, HABIBA YEASMIN, FWA, 01. Prembug", "902", "210", "1,112", "0","0", "1,112", "305", "807", "", "", "<img src='ht...
+2025-02-08 19:03:09,814 - WARNING - Retry 1/3 for task 2016-11 T429 CON008 after 5s. Error: Unexpected content type: text/html; charset=UTF-8
+2025-02-08 19:03:14,828 - WARNING - Retry 2/3 for task 2016-11 T429 CON008 after 10s. Error: Server disconnected
+2025-02-08 19:03:26,099 - ERROR - Unexpected response type: text/html; charset=UTF-8, content: 
+
+{ "sEcho": 2, "iTotalRecords":6, "iTotalDisplayRecords": 6, "aaData":[[ "1", "1/ Ka, Nurun Nahar, FWA, Prembug", "520", "345", "865", "0","0", "865", "222", "643", "", "", "<img src='https://scmpb...
+2025-02-08 19:03:26,099 - ERROR - Error processing task 2016-11 T429 CON008: Unexpected content type: text/html; charset=UTF-8
+2025-02-08 19:03:26,912 - ERROR - Unexpected response type: text/html; charset=UTF-8, content: 
+
+{ "sEcho": 2, "iTotalRecords":0, "iTotalDisplayRecords": 0, "aaData":[]}...
+2025-02-08 19:03:26,912 - WARNING - Retry 1/3 for task 2016-11 T429 CON010 after 5s. Error: Unexpected content type: text/html; charset=UTF-8
+2025-02-08 19:03:33,058 - ERROR - Unexpected response type: text/html; charset=UTF-8, content: 
+
+{ "sEcho": 2, "iTotalRecords":0, "iTotalDisplayRecords": 0, "aaData":[]}...
+2025-02-08 19:03:33,058 - WARNING - Retry 2/3 for task 2016-11 T429 CON010 after 10s. Error: Unexpected content type: text/html; charset=UTF-8
+2025-02-08 19:03:44,136 - ERROR - Unexpected response type: text/html; charset=UTF-8, content: 
+
+{ "sEcho": 2, "iTotalRecords":0, "iTotalDisplayRecords": 0, "aaData":[]}...
+2025-02-08 19:03:44,136 - ERROR - Error processing task 2016-11 T429 CON010: Unexpected content type: text/html; charset=UTF-8
+2025-02-08 19:03:44,924 - ERROR - Unexpected response type: text/html; charset=UTF-8, content: 
+
+{ "sEcho": 2, "iTotalRecords":6, "iTotalDisplayRecords": 6, "aaData":[[ "1", "1/ Ka, Nurun Nahar, FWA, Prembug", "520", "345", "865", "0","0", "865", "222", "643", "", "", "<img src='https://scmpb...
+2025-02-08 19:03:44,924 - WARNING - Retry 1/3 for task 2016-11 T429 CON008+CON010 after 5s. Error: Unexpected content type: text/html; charset=UTF-8
+2025-02-08 19:03:49,930 - WARNING - Retry 2/3 for task 2016-11 T429 CON008+CON010 after 10s. Error: Server disconnected
+2025-02-08 19:04:01,011 - ERROR - Unexpected response type: text/html; charset=UTF-8, content: 
+
+{ "sEcho": 2, "iTotalRecords":6, "iTotalDisplayRecords": 6, "aaData":[[ "1", "1/ Ka, Nurun Nahar, FWA, Prembug", "520", "345", "865", "0","0", "865", "222", "643", "", "", "<img src='https://scmpb...
+2025-02-08 19:04:01,012 - ERROR - Error processing task 2016-11 T429 CON008+CON010: Unexpected content type: text/html; charset=UTF-8
+2025-02-08 19:04:01,777 - ERROR - Unexpected response type: text/html; charset=UTF-8, content: 
+
+{ "sEcho": 2, "iTotalRecords":6, "iTotalDisplayRecords": 6, "aaData":[[ "1", "1/Kha, HABIBA YEASMIN, FWA, 01. Prembug", "2", "10", "12", "0","0", "12", "6", "6", "", "", "<img src='https://scmpbd....
+2025-02-08 19:04:01,777 - WARNING - Retry 1/3 for task 2016-11 T429 CON009 after 5s. Error: Unexpected content type: text/html; charset=UTF-8
+2025-02-08 19:04:06,244 - INFO - Scraping interrupted. Progress saved.
+2025-02-08 19:04:06,244 - INFO - Scraping completed. Successes: 0, Errors: 3
+2025-02-08 19:05:13,365 - INFO - Total tasks: 586872, Remaining tasks: 586872
+2025-02-08 19:05:15,441 - ERROR - Error processing task 2016-11 T429 CON010: No data processed
+2025-02-08 19:05:22,825 - INFO - Successfully completed 10 tasks
+2025-02-08 19:05:25,283 - ERROR - Error processing task 2016-11 T155 CON010: No data processed
+2025-02-08 19:05:32,069 - INFO - Successfully completed 20 tasks
+2025-02-08 19:05:35,485 - ERROR - Error processing task 2016-11 T268 CON010: No data processed
+2025-02-08 19:05:41,672 - INFO - Successfully completed 30 tasks
+2025-02-08 19:05:45,860 - ERROR - Error processing task 2016-11 T038 CON010: No data processed
+2025-02-08 19:05:50,866 - INFO - Successfully completed 40 tasks
+2025-02-08 19:05:55,843 - ERROR - Error processing task 2016-11 T379 CON010: No data processed
+2025-02-08 19:05:59,897 - INFO - Successfully completed 50 tasks
+2025-02-08 19:06:05,689 - ERROR - Error processing task 2016-11 T321 CON010: No data processed
+2025-02-08 19:06:09,114 - INFO - Successfully completed 60 tasks
+2025-02-08 19:06:16,291 - ERROR - Error processing task 2016-11 T166 CON010: No data processed
+2025-02-08 19:06:18,693 - INFO - Successfully completed 70 tasks
+2025-02-08 19:06:26,077 - ERROR - Error processing task 2016-11 T456 CON010: No data processed
+2025-02-08 19:06:27,811 - INFO - Successfully completed 80 tasks
+2025-02-08 19:06:36,483 - ERROR - Error processing task 2016-11 T059 CON010: No data processed
+2025-02-08 19:06:37,289 - INFO - Successfully completed 90 tasks
+2025-02-08 19:06:46,590 - INFO - Successfully completed 100 tasks
+2025-02-08 19:06:47,423 - ERROR - Error processing task 2016-11 T302 CON010: No data processed
+2025-02-08 19:06:55,602 - INFO - Successfully completed 110 tasks
+2025-02-08 19:06:57,369 - ERROR - Error processing task 2016-11 T133 CON010: No data processed
+2025-02-08 19:07:05,070 - INFO - Successfully completed 120 tasks
+2025-02-08 19:07:07,552 - ERROR - Error processing task 2016-11 T279 CON010: No data processed
+2025-02-08 19:07:14,166 - INFO - Successfully completed 130 tasks
+2025-02-08 19:07:17,495 - ERROR - Error processing task 2016-11 T027 CON010: No data processed
+2025-02-08 19:07:23,352 - INFO - Successfully completed 140 tasks
+2025-02-08 19:07:27,532 - ERROR - Error processing task 2016-11 T471 CON010: No data processed
+2025-02-08 19:07:32,506 - INFO - Successfully completed 150 tasks
+2025-02-08 19:07:37,515 - ERROR - Error processing task 2016-11 T422 CON010: No data processed
+2025-02-08 19:07:41,735 - INFO - Successfully completed 160 tasks
+2025-02-08 19:07:47,699 - ERROR - Error processing task 2016-11 T194 CON010: No data processed
+2025-02-08 19:07:51,002 - INFO - Successfully completed 170 tasks
+2025-02-08 19:07:57,740 - ERROR - Error processing task 2016-11 T117 CON010: No data processed
+2025-02-08 19:08:00,158 - INFO - Successfully completed 180 tasks
+2025-02-08 19:08:08,606 - ERROR - Error processing task 2016-11 T227 CON010: No data processed
+2025-02-08 19:08:10,448 - INFO - Successfully completed 190 tasks
+2025-02-08 19:08:15,392 - ERROR - Error processing task 2016-11 T227 MCH051: No data processed
+2025-02-08 19:08:18,727 - ERROR - Error processing task 2016-11 T184 CON010: No data processed
+2025-02-08 19:08:20,407 - INFO - Successfully completed 200 tasks
+2025-02-08 19:08:28,779 - ERROR - Error processing task 2016-11 T104 CON010: No data processed
+2025-02-08 19:08:29,561 - INFO - Successfully completed 210 tasks
+2025-02-08 19:08:37,546 - INFO - Successfully completed 220 tasks
+2025-02-08 19:08:38,404 - ERROR - Error processing task 2016-11 T039 CON010: No data processed
+2025-02-08 19:08:47,055 - INFO - Successfully completed 230 tasks
+2025-02-08 19:08:48,747 - ERROR - Error processing task 2016-11 T228 CON010: No data processed
+2025-02-08 19:08:56,123 - INFO - Successfully completed 240 tasks
+2025-02-08 19:08:58,583 - ERROR - Error processing task 2016-11 T244 CON010: No data processed
+2025-02-08 19:09:05,314 - INFO - Successfully completed 250 tasks
+2025-02-08 19:09:08,758 - ERROR - Error processing task 2016-11 T239 CON010: No data processed
+2025-02-08 19:09:14,607 - INFO - Successfully completed 260 tasks
+2025-02-08 19:09:18,746 - ERROR - Error processing task 2016-11 T413 CON010: No data processed
+2025-02-08 19:09:23,872 - INFO - Successfully completed 270 tasks
+2025-02-08 19:09:28,883 - ERROR - Error processing task 2016-11 T213 CON010: No data processed
+2025-02-08 19:09:33,908 - INFO - Successfully completed 280 tasks
+2025-02-08 19:09:39,633 - ERROR - Error processing task 2016-11 T350 CON010: No data processed
+2025-02-08 19:09:42,918 - INFO - Successfully completed 290 tasks
+2025-02-08 19:09:49,464 - ERROR - Error processing task 2016-11 T430 CON010: No data processed
+2025-02-08 19:09:51,840 - INFO - Successfully completed 300 tasks
+2025-02-08 19:09:58,898 - ERROR - Error processing task 2016-11 T212 CON010: No data processed
+2025-02-08 19:10:00,440 - INFO - Successfully completed 310 tasks
+2025-02-08 19:10:08,312 - ERROR - Error processing task 2016-11 T380 CON010: No data processed
+2025-02-08 19:10:09,081 - INFO - Successfully completed 320 tasks
+2025-02-08 19:10:16,914 - INFO - Successfully completed 330 tasks
+2025-02-08 19:10:17,672 - ERROR - Error processing task 2016-11 T105 CON010: No data processed
+2025-02-08 19:10:25,822 - INFO - Successfully completed 340 tasks
+2025-02-08 19:10:27,456 - ERROR - Error processing task 2016-11 T040 CON010: No data processed
+2025-02-08 19:10:34,837 - INFO - Successfully completed 350 tasks
+2025-02-08 19:10:37,285 - ERROR - Error processing task 2016-11 T080 CON010: No data processed
+2025-02-08 19:10:43,675 - INFO - Successfully completed 360 tasks
+2025-02-08 19:10:46,915 - ERROR - Error processing task 2016-11 T368 CON010: No data processed
+2025-02-08 19:10:53,678 - INFO - Successfully completed 370 tasks
+2025-02-08 19:10:57,736 - ERROR - Error processing task 2016-11 T189 CON010: No data processed
+2025-02-08 19:11:02,509 - INFO - Successfully completed 380 tasks
+2025-02-08 19:11:07,515 - ERROR - Error processing task 2016-11 T076 CON010: No data processed
+2025-02-08 19:11:11,484 - INFO - Successfully completed 390 tasks
+2025-02-08 19:11:17,239 - ERROR - Error processing task 2016-11 T134 CON010: No data processed
+2025-02-08 19:11:20,524 - INFO - Successfully completed 400 tasks
+2025-02-08 19:11:27,232 - ERROR - Error processing task 2016-11 T047 CON010: No data processed
+2025-02-08 19:11:29,722 - INFO - Successfully completed 410 tasks
+2025-02-08 19:11:37,659 - ERROR - Error processing task 2016-11 T322 CON010: No data processed
+2025-02-08 19:11:39,383 - INFO - Successfully completed 420 tasks
+2025-02-08 19:11:47,516 - ERROR - Error processing task 2016-11 T028 CON010: No data processed
+2025-02-08 19:11:48,566 - INFO - Successfully completed 430 tasks
+2025-02-08 19:11:56,479 - INFO - Successfully completed 440 tasks
+2025-02-08 19:11:57,256 - ERROR - Error processing task 2016-11 T303 CON010: No data processed
+2025-02-08 19:12:05,356 - INFO - Successfully completed 450 tasks
+2025-02-08 19:12:07,084 - ERROR - Error processing task 2016-11 T381 CON010: No data processed
+2025-02-08 19:12:14,467 - INFO - Successfully completed 460 tasks
+2025-02-08 19:12:17,832 - ERROR - Error processing task 2016-11 T280 CON010: No data processed
+2025-02-08 19:12:24,295 - INFO - Successfully completed 470 tasks
+2025-02-08 19:12:27,535 - ERROR - Error processing task 2016-11 T238 CON010: No data processed
+2025-02-08 19:12:33,310 - INFO - Successfully completed 480 tasks
+2025-02-08 19:12:37,345 - ERROR - Error processing task 2016-11 T135 CON010: No data processed
+2025-02-08 19:12:42,416 - INFO - Successfully completed 490 tasks
+2025-02-08 19:12:47,229 - ERROR - Error processing task 2016-11 T118 CON010: No data processed
+2025-02-08 19:12:51,351 - INFO - Successfully completed 500 tasks
+2025-02-08 19:12:57,058 - ERROR - Error processing task 2016-11 T043 CON010: No data processed
+2025-02-08 19:13:00,443 - INFO - Successfully completed 510 tasks
+2025-02-08 19:13:06,986 - ERROR - Error processing task 2016-11 T351 CON010: No data processed
+2025-02-08 19:13:09,453 - INFO - Successfully completed 520 tasks
+2025-02-08 19:13:16,799 - ERROR - Error processing task 2016-11 T387 CON010: No data processed
+2025-02-08 19:13:18,379 - INFO - Successfully completed 530 tasks
+2025-02-08 19:13:26,753 - ERROR - Error processing task 2016-11 T309 CON010: No data processed
+2025-02-08 19:13:27,530 - INFO - Successfully completed 540 tasks
+2025-02-08 19:13:35,771 - INFO - Successfully completed 550 tasks
+2025-02-08 19:13:36,584 - ERROR - Error processing task 2016-11 T144 CON010: No data processed
+2025-02-08 19:13:45,299 - INFO - Successfully completed 560 tasks
+2025-02-08 19:13:46,908 - ERROR - Error processing task 2016-11 T403 CON010: No data processed
+2025-02-08 19:13:54,110 - INFO - Successfully completed 570 tasks
+2025-02-08 19:13:56,563 - ERROR - Error processing task 2016-11 T127 CON010: No data processed
+2025-02-08 19:14:02,902 - INFO - Successfully completed 580 tasks
+2025-02-08 19:14:06,016 - ERROR - Error processing task 2016-11 T369 CON010: No data processed
+2025-02-08 19:14:11,543 - INFO - Successfully completed 590 tasks
+2025-02-08 19:14:15,596 - ERROR - Error processing task 2016-11 T335 CON010: No data processed
+2025-02-08 19:14:20,389 - INFO - Successfully completed 600 tasks
+2025-02-08 19:14:22,542 - INFO - Scraping interrupted. Progress saved.
+2025-02-08 19:14:22,542 - INFO - Scraping completed. Successes: 602, Errors: 56

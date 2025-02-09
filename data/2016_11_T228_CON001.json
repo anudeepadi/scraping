@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "year": "2016",
+    "month": "11",
+    "upazila_id": "T228",
+    "item_code": "CON001",
+    "scraped_at": "2025-02-08T19:08:52.836997"
+  },
+  "data": [
+    {
+      "facility": "1/Ka, SARMIN NAHAR, FWA, 01. Badalgachi",
+      "opening_balance": 95.0,
+      "received": 22.0,
+      "total": 117.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 117.0,
+      "distribution": 0.0,
+      "closing_balance": 117.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "1/Kha, ROJINA BEGUM, FWA, 01. Badalgachi",
+      "opening_balance": 17.0,
+      "received": 11.0,
+      "total": 28.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 28.0,
+      "distribution": 0.0,
+      "closing_balance": 28.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/ Ka, Mrs. Sultana Razia, FWA, Badalgachi",
+      "opening_balance": 42.0,
+      "received": 33.0,
+      "total": 75.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 75.0,
+      "distribution": 20.0,
+      "closing_balance": 55.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "2/Kha, NASIMA AKTER, FWA, 01. Badalgachi",
+      "opening_balance": 7.0,
+      "received": 11.0,
+      "total": 18.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 18.0,
+      "distribution": 2.0,
+      "closing_balance": 16.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/ Ka, Mrs. Sarmin Nahar(In-Charge), FWA, Badalgachi",
+      "opening_balance": 14.0,
+      "received": 0.0,
+      "total": 14.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 14.0,
+      "distribution": 1.0,
+      "closing_balance": 13.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    },
+    {
+      "facility": "3/ Kha, Mrs. Rojina Begum(In-charge), FWA, Badalgachi",
+      "opening_balance": 11.0,
+      "received": 0.0,
+      "total": 11.0,
+      "adj_plus": 0.0,
+      "adj_minus": 0.0,
+      "grand_total": 11.0,
+      "distribution": 0.0,
+      "closing_balance": 11.0,
+      "stock_out_reason": "",
+      "stock_out_days": 0.0,
+      "eligible": true
+    }
+  ]
+}

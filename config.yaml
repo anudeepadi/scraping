@@ -1,0 +1,42 @@
+# API Configuration
+api:
+  base_url: "https://elmis.dgfp.gov.bd/dgfplmis_reports/sdpdataviewer"
+  requests_per_second: 2
+  min_batch_delay: 5
+  max_batch_delay: 15
+
+# Database Configuration
+database:
+  host: "localhost"
+  port: 5432
+  dbname: "lmis_data"
+  user: "postgres"
+  password: "postgres"
+  max_connections: 20
+
+# Scraping Configuration
+scraping:
+  num_workers: 32  # Optimized for i9
+  batch_size: 100
+  max_retries: 3
+  retry_delay: 5
+  checkpoint_interval: 3600  # 1 hour in seconds
+
+# Storage Configuration
+storage:
+  save_raw_files: true
+  compress_old_files: true
+  retention_days: 30
+
+# Performance Settings
+performance:
+  memory_limit: "32GB"  # 90% of 36GB
+  disk_buffer_size: "1GB"
+  max_concurrent_writes: 16
+
+# Logging Configuration
+logging:
+  level: "INFO"
+  file: "logs/scraper.log"
+  max_size: "100MB"
+  backup_count: 5
